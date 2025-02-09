@@ -12,9 +12,9 @@ char* cboard = (char*)"o@.";
 #define USE_COLOR
 
 enum {
-    WHITE,
-    BLACK,
-    EMPTY
+  WHITE,
+  BLACK,
+  EMPTY
 };
 
 struct bt_piece_t {
@@ -265,28 +265,33 @@ bool bt_t::white_can_move_left(int _line, int _col) {
   if(board[_line-1][_col-1] != WHITE) return true;
   return false;
 }
+
 bool bt_t::black_can_move_right(int _line, int _col) {
   if(_line == nbl-1) return false;
   if(_col == nbc-1) return false;
   if(board[_line+1][_col+1] != BLACK) return true;
   return false;
 }
+
 bool bt_t::black_can_move_forward(int _line, int _col) {
   if(_line == nbl-1) return false;
   if(board[_line+1][_col] == EMPTY) return true;
   return false;
 }
+
 bool bt_t::black_can_move_left(int _line, int _col) {
   if(_line == nbl-1) return false;
   if(_col == 0) return false;
   if(board[_line+1][_col-1] != BLACK) return true;
   return false;
 }
+
 bt_move_t bt_t::get_rand_move() {
   update_moves();
   int r = ((int)rand())%nb_moves;
   return moves[r];
 }
+
 bool bt_t::can_play(bt_move_t _m) {
   int dx = abs(_m.col_f - _m.col_i);
   if(dx > 1) return false;
@@ -350,6 +355,7 @@ void bt_t::play(bt_move_t _m) {
   }
   turn++;
 }
+
 int bt_t::endgame() {
   for(int i = 0; i < nbc; i++) {
     if(board[0][i] == WHITE) return WHITE;
