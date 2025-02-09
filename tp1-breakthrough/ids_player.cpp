@@ -127,6 +127,7 @@ bt_move_t IDS(bt_t& state, bool is_white) {
   for (int depth = 1; depth <= IDS_MAX_DEPTH; depth++) {
     hashmap.clear();
     DLS_MAX_DEPTH = depth;
+    solution.resize(DLS_MAX_DEPTH);
     solved = false;
     DLS(state, 0, is_white);
 
