@@ -95,9 +95,9 @@ double heuristique(const bt_t &state, bool is_white, bool is_current = false) {
   result = 0.3 * avantage_pieces + 0.7 * avantage_distance;
 
   if (is_current) {
-    fprintf(stderr, "avantage_pieces : %f\n", avantage_pieces);
-    fprintf(stderr, "avantage_distance : %f\n", avantage_distance);
-    fprintf(stderr, "result : %f\n", result);
+    fprintf(stderr, "  avantage_pieces : %f\n", avantage_pieces);
+    fprintf(stderr, "  avantage_distance : %f\n", avantage_distance);
+    fprintf(stderr, "  result : %f\n", result);
   }
   return result;
 }
