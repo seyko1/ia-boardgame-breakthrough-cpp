@@ -3,6 +3,8 @@
 #include <cstdio>
 #include <cstdlib>
 #include <random>
+#include <string>
+#include <sstream>
 #define WHITE 0
 #define BLACK 1
 #define EMPTY 2
@@ -68,6 +70,7 @@ struct bt_t {
 
   void init(int _nbl, int _nbc);
   void init_pieces();
+  std::string board_to_string(); 
   void print_board(FILE* _fp);
   void print_turn_and_moves(FILE* _fp);
   void update_moves();
@@ -143,6 +146,30 @@ void bt_t::init_pieces() {
     }
 }
 
+std::string bt_t::board_to_string() {
+  std::stringstream ss; 
+  for (int i = 0; i < nbl; i++) {
+    for (int j = 0; j < nbc; j++) {
+      // assigner une valeur en fonction de la couleur du pion
+      int value = EMPTY;
+      if (board[i][j] == WHITE) {
+        value = WHITE;
+      } else if (board[i][j] == BLACK) {
+        value = BLACK;
+      }
+
+      // i,j:valeur
+      ss << i << j << ":" << value;
+
+      // vérifier si c'est la dernière position
+      if (!(i == nbl - 1 && j == nbc - 1)) {
+        ss << ",";
+      }
+    }
+  }
+  return ss.str();
+}
+
 void bt_t::print_board(FILE* _fp = stderr) {
 #ifdef USE_COLOR
   fprintf(_fp, "   \x1B[34m");
@@ -178,6 +205,7 @@ void bt_t::print_board(FILE* _fp = stderr) {
   }
 #endif /* USE_COLOR */
 }
+
 void bt_t::print_turn_and_moves(FILE* _fp = stderr) {
   fprintf(_fp,"turn:%d\nmoves:", turn);
   for(int i = 0; i < nb_moves; i++) {
@@ -186,10 +214,12 @@ void bt_t::print_turn_and_moves(FILE* _fp = stderr) {
   }
   fprintf(_fp, "\n");
 }
+
 void bt_t::update_moves() {
   if(turn%2 == 0) update_moves(WHITE);
   else update_moves(BLACK);
 }
+
 void bt_t::update_moves(int _color) {
   if(turn_of_last_moves_update == turn) return; // MAJ ever done
   turn_of_last_moves_update = turn;
