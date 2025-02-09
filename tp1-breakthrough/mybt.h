@@ -5,14 +5,17 @@
 #include <random>
 #include <string>
 #include <sstream>
-#define WHITE 0
-#define BLACK 1
-#define EMPTY 2
 char* cboard = (char*)"o@.";
 
 // print black in red (as bg is black... black is printed in red)
 // comment the following #define USE_COLOR to print without color
 #define USE_COLOR
+
+enum {
+    WHITE,
+    BLACK,
+    EMPTY
+};
 
 struct bt_piece_t {
   int line; int col;
@@ -151,15 +154,9 @@ std::string bt_t::board_to_string() {
   for (int i = 0; i < nbl; i++) {
     for (int j = 0; j < nbc; j++) {
       // assigner une valeur en fonction de la couleur du pion
-      int value = EMPTY;
-      if (board[i][j] == WHITE) {
-        value = WHITE;
-      } else if (board[i][j] == BLACK) {
-        value = BLACK;
-      }
+      int value = board[i][j];
 
-      // i,j:valeur
-      ss << i << j << ":" << value;
+      ss << i << "," << j << "," << value;
 
       // vérifier si c'est la dernière position
       if (!(i == nbl - 1 && j == nbc - 1)) {
