@@ -18,6 +18,10 @@ int DLS_MAX_DEPTH = 5;
 // Table de hashage pour stocker les profondeurs des états explorés
 std::unordered_map<std::string, int> hashmap;
 
+// Tableau pour stocker les coups par profondeur
+std::vector<bt_move_t> solution;
+int solution_size = 0;
+
 bt_t best_solution;
 bool solved = false;
 
@@ -83,7 +87,7 @@ bt_t applyMove(const bt_t &state, const bt_move_t &move) {
 
 // Recherche en profondeur limitée (DLS)
 void DLS(bt_t &state, int depth, bool is_white) {
-    if (solved) return;
+    if (solution_size != 0) return;
 
     std::string state_hash = state.board_to_string();
     hashmap[state_hash] = depth;
@@ -93,7 +97,7 @@ void DLS(bt_t &state, int depth, bool is_white) {
     }
 
     if (state.endgame() == WHITE || state.endgame() == BLACK) {
-      solved = true;
+      solution_size = depth;
       return;
     }
 
@@ -107,15 +111,18 @@ void DLS(bt_t &state, int depth, bool is_white) {
 
       std::string new_hash = new_solution.board_to_string();
       if (hashmap.find(new_hash) == hashmap.end() || hashmap[new_hash] > depth) {
+        solution[depth] = move;
         DLS(new_solution, depth + 1, !is_white);
       }
 
-      if (solved) break;
+      if (solution_size != 0) break;
     }
 }
 
 // Recherche IDS
 bt_move_t IDS(bt_t& state, bool is_white) {
+  solution.clear();
+  solution_size = 0;
   best_solution = state;
 
   for (int depth = 1; depth <= IDS_MAX_DEPTH; depth++) {
@@ -124,10 +131,10 @@ bt_move_t IDS(bt_t& state, bool is_white) {
     solved = false;
     DLS(state, 0, is_white);
 
-    if (solved) break;
+    if (solution_size != 0) break;
   }
 
-  // TODO: renvoyer le coup menant à best_solution
+  return solution[0];  // Le premier coup menant à la solution trouvée
 }
 
 void genmove() {
