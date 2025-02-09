@@ -111,7 +111,7 @@ void DLS(bt_t &state, int depth, bool is_white) {
       std::string new_hash = new_solution.board_to_string();
       if (hashmap.find(new_hash) == hashmap.end() || hashmap[new_hash] > depth) {
         solution[depth] = move;
-        DLS(new_solution, depth + 1, !is_white);
+        DLS(new_solution, depth + 1, is_white);
       }
 
       if (solution_size != 0) break;
@@ -149,7 +149,7 @@ void genmove() {
   bt_move_t best_move = IDS(B, white_turn);
   B.play(best_move);
 
-  if(verbose) {
+  if (verbose) {
     best_move.print(stderr, white_turn, B.nbl);
     fprintf(stderr, "\n");
   }
