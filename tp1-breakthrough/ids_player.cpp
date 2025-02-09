@@ -96,14 +96,13 @@ void DLS(bt_t &state, int depth, bool is_white) {
       best_solution = state;
     }
 
-    if (state.endgame() == WHITE || state.endgame() == BLACK) {
-      solution_size = depth;
+    int game_status = state.endgame();
+    if ((game_status == WHITE && is_white) || (game_status == BLACK && !is_white)) { // victoire trouvée
+      solution_size = depth; 
       return;
     }
 
-    if (state.endgame() != EMPTY || depth == DLS_MAX_DEPTH) {
-      return;
-    }
+    if (depth == DLS_MAX_DEPTH) return;
 
     std::vector<bt_move_t> moves = nextMoves(state);
     for (bt_move_t move : moves) {
