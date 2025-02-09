@@ -66,9 +66,35 @@ void showboard() {
   printf("= \n\n");
 }
 
-double heuristique(const bt_t &state) {
-  // TODO: implémenter state.evaluate(); // renverra une valeur entre 0 et 1 ?
-  return static_cast<double>(rand()) / static_cast<double>(RAND_MAX);
+// Renvoie une valeur d'évaluation de la position du jeu
+double heuristique(const bt_t &state, bool is_white) {
+  int white_pieces = 0, black_pieces = 0, white_distance = 0, black_distance = 0;
+  double avantage_pieces, avantage_distance, result;
+ 
+  for (int i = 0; i < boardheight; i++) {
+    for (int j = 0; j < boardwidth; j++) {
+      if (state.board[i][j] == WHITE) {
+        white_pieces++;
+        white_distance += (boardheight - i - 1);
+      }
+      else if (state.board[i][j] == BLACK) {
+        black_pieces++;
+        black_distance += i;  // distance à la première ligne (ligne d'arrivée des noirs)
+      }
+    }
+  }
+
+  avantage_pieces = static_cast<double>(white_pieces - black_pieces);
+
+  avantage_distance = static_cast<double>(black_distance - white_distance);
+
+  result = 0.3 * avantage_pieces + 0.7 * avantage_distance;
+
+  // Inverser l'heuristique si c'est le tour des noirs ?
+  if (!is_white) result = -result;
+
+  // fprintf(stderr, "heuristique : %f\n", result);
+  return result;
 }
 
 // Obtenir les coups possibles
@@ -110,15 +136,23 @@ bt_t applyMove(const bt_t &state, const bt_move_t &move) {
   return new_state;
 }
 
-// Recherche en profondeur limitée (DLS)
+// Trouve la meilleure solution pour un état donné du jeu
 void DLS(bt_t &state, int depth, bool is_white) {
     if (solution_size != 0) return;
 
     std::string state_hash = state.board_to_string(is_white);
     hashmap[state_hash] = depth;
 
-    if (heuristique(best_solution) > heuristique(state)) {
-      best_solution = state;
+    if (is_white) {
+      // Si c'est le tour des blancs, on cherche le maximum
+      if (heuristique(state, is_white) > heuristique(best_solution, is_white)) {
+        best_solution = state;
+      }
+    } else {
+      // Si c'est le tour des noirs, on cherche la plus petite valeur car l'heuristique est inversée
+      if (heuristique(state, is_white) < heuristique(best_solution, is_white)) {
+        best_solution = state;
+      }
     }
 
     int game_status = state.endgame();
