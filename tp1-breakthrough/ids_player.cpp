@@ -78,6 +78,31 @@ std::vector<bt_move_t> nextMoves(bt_t &state) {
   return moves;
 }
 
+void printMoves(const std::vector<bt_move_t> &moves) {
+  char a, b, c, d;
+  size_t i;
+  std::string output = "possible moves : [ ";
+  
+  for (i = 0; i < moves.size(); i++) {
+    a = '0' + (boardheight - moves[i].line_i);
+    b = 'a' + moves[i].col_i;
+    c = '0' + (boardheight - moves[i].line_f);
+    d = 'a' + moves[i].col_f;
+
+    output += std::string(1, a) +
+              std::string(1, b) +
+              std::string(1, c) +
+              std::string(1, d);
+    
+    if (i < moves.size() - 1) output += ", ";
+  }
+
+  output += " ]\n";
+
+  fprintf(stderr, "%s", output.c_str());
+}
+
+
 // Appliquer un coup et retourner le nouvel état
 bt_t applyMove(const bt_t &state, const bt_move_t &move) {
   bt_t new_state = state;
