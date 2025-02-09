@@ -25,8 +25,8 @@ int solution_size = 0;
 bt_t best_solution;
 bool solved = false;
 
-#ifndef VERBOSE_RAND_PLAYER
-#define VERBOSE_RAND_PLAYER
+#ifndef VERBOSE_IDS_PLAYER
+#define VERBOSE_IDS_PLAYER
 bool verbose = true;
 bool showboard_at_each_move = false;
 #endif
@@ -43,7 +43,7 @@ void help() {
 }
 
 void name() {
-  printf("= rand_player\n\n");
+  printf("= ids_player\n\n");
 }
 
 void newgame() {
@@ -186,7 +186,7 @@ int main(int _ac, char** _av) {
   setbuf(stdout, 0);
   setbuf(stderr, 0);
 
-  if(verbose) fprintf(stderr, "rand_player started\n");
+  if(verbose) fprintf(stderr, "ids_player started\n");
   char a,b,c,d; // for play cmd
   
   for (std::string line; std::getline(std::cin, line);) {
