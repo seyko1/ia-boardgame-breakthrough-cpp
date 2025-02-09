@@ -86,7 +86,7 @@ double heuristique(const bt_t &state, bool is_white) {
 
   avantage_pieces = static_cast<double>(white_pieces - black_pieces);
 
-  avantage_distance = static_cast<double>(black_distance - white_distance);
+  avantage_distance = static_cast<double>(white_distance - black_distance);
 
   result = 0.3 * avantage_pieces + 0.7 * avantage_distance;
 
