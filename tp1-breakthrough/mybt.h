@@ -73,7 +73,7 @@ struct bt_t {
 
   void init(int _nbl, int _nbc);
   void init_pieces();
-  std::string board_to_string(); 
+  std::string board_to_string(bool is_white); 
   void print_board(FILE* _fp);
   void print_turn_and_moves(FILE* _fp);
   void update_moves();
@@ -149,7 +149,10 @@ void bt_t::init_pieces() {
     }
 }
 
-std::string bt_t::board_to_string() {
+/* Afficher les positions des pions du joueur actif dans une chaine de caractère
+ * format : grille:joueur_actif (ex: 0,1,2,1,0,2,2,2,0:0)
+*/ 
+std::string bt_t::board_to_string(bool is_white) {
   std::stringstream ss; 
   for (int i = 0; i < nbl; i++) {
     for (int j = 0; j < nbc; j++) {
@@ -161,6 +164,9 @@ std::string bt_t::board_to_string() {
       // vérifier si c'est la dernière position
       if (!(i == nbl - 1 && j == nbc - 1)) {
         ss << ",";
+      }
+      else {
+        ss << ":" << (is_white ? "0" : "1");
       }
     }
   }

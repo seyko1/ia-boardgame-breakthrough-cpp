@@ -89,7 +89,7 @@ bt_t applyMove(const bt_t &state, const bt_move_t &move) {
 void DLS(bt_t &state, int depth, bool is_white) {
     if (solution_size != 0) return;
 
-    std::string state_hash = state.board_to_string();
+    std::string state_hash = state.board_to_string(is_white);
     hashmap[state_hash] = depth;
 
     if (heuristique(best_solution) > heuristique(state)) {
@@ -108,7 +108,7 @@ void DLS(bt_t &state, int depth, bool is_white) {
     for (bt_move_t move : moves) {
       bt_t new_solution = applyMove(state, move);
 
-      std::string new_hash = new_solution.board_to_string();
+      std::string new_hash = new_solution.board_to_string(is_white);
       if (hashmap.find(new_hash) == hashmap.end() || hashmap[new_hash] > depth) {
         solution[depth] = move;
         DLS(new_solution, depth + 1, is_white);
