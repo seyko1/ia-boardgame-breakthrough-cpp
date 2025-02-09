@@ -8,7 +8,6 @@
 
 #define IDS_MAX_DEPTH 2
 
-
 bt_t B;
 int boardwidth = 0;
 int boardheight = 0;
@@ -67,10 +66,14 @@ void showboard() {
 }
 
 // Renvoie une valeur d'évaluation de la position du jeu
-double heuristique(const bt_t &state, bool is_white) {
+double heuristique(const bt_t &state, bool is_white, bool is_current = false) {
   int white_pieces = 0, black_pieces = 0, white_distance = 0, black_distance = 0;
   double avantage_pieces, avantage_distance, result;
- 
+
+  int max_pieces = state.nbc * 2;
+  // Distance totale cumulée dans l'état de départ avec deux lignes rempli de pions.
+  int max_distance = (state.nbl - 1) * state.nbc + (state.nbl - 2) * state.nbc;
+
   for (int i = 0; i < boardheight; i++) {
     for (int j = 0; j < boardwidth; j++) {
       if (state.board[i][j] == WHITE) {
@@ -84,16 +87,18 @@ double heuristique(const bt_t &state, bool is_white) {
     }
   }
 
-  avantage_pieces = static_cast<double>(white_pieces - black_pieces);
+  avantage_pieces = static_cast<double>(white_pieces - black_pieces) / max_pieces;
 
-  avantage_distance = static_cast<double>(white_distance - black_distance);
+  avantage_distance = static_cast<double>(white_distance - black_distance) / max_distance;
+
 
   result = 0.3 * avantage_pieces + 0.7 * avantage_distance;
 
-  // Inverser l'heuristique si c'est le tour des noirs ?
-  if (!is_white) result = -result;
-
-  // fprintf(stderr, "heuristique : %f\n", result);
+  if (is_current) {
+    fprintf(stderr, "avantage_pieces : %f\n", avantage_pieces);
+    fprintf(stderr, "avantage_distance : %f\n", avantage_distance);
+    fprintf(stderr, "result : %f\n", result);
+  }
   return result;
 }
 
@@ -128,6 +133,22 @@ void printMoves(const std::vector<bt_move_t> &moves) {
   fprintf(stderr, "%s", output.c_str());
 }
 
+void printMove(bt_move_t move, int depth) {
+  char a, b, c, d;
+
+  a = '0' + (boardheight - move.line_i);
+  b = 'a' + move.col_i;
+  c = '0' + (boardheight - move.line_f);
+  d = 'a' + move.col_f;
+
+  std::string str = std::string(1, a) +
+                    std::string(1, b) +
+                    std::string(1, c) +
+                    std::string(1, d);
+
+  fprintf(stderr, "(%d)%s\n", depth, str.c_str());
+}
+
 
 // Appliquer un coup et retourner le nouvel état
 bt_t applyMove(const bt_t &state, const bt_move_t &move) {
@@ -145,13 +166,15 @@ void DLS(bt_t &state, int depth, bool is_white) {
 
     if (is_white) {
       // Si c'est le tour des blancs, on cherche le maximum
-      if (heuristique(state, is_white) > heuristique(best_solution, is_white)) {
+      if (heuristique(state, is_white, true) > heuristique(best_solution, is_white)) {
         best_solution = state;
+        fprintf(stderr, "new best solution\n");
       }
     } else {
       // Si c'est le tour des noirs, on cherche la plus petite valeur car l'heuristique est inversée
       if (heuristique(state, is_white) < heuristique(best_solution, is_white)) {
         best_solution = state;
+        fprintf(stderr, "new best solution\n");
       }
     }
 
@@ -164,10 +187,14 @@ void DLS(bt_t &state, int depth, bool is_white) {
     if (depth == DLS_MAX_DEPTH) return;
 
     std::vector<bt_move_t> moves = nextMoves(state);
+    fprintf(stderr, "%ld coups trouvés\n", moves.size());
+
     for (bt_move_t move : moves) {
+      printMove(move, depth);
       bt_t new_solution = applyMove(state, move);
 
       std::string new_hash = new_solution.board_to_string(is_white);
+
       if (hashmap.find(new_hash) == hashmap.end() || hashmap[new_hash] > depth) {
         solution[depth] = move;
         DLS(new_solution, depth + 1, is_white);
@@ -186,6 +213,7 @@ bt_move_t IDS(bt_t& state, bool is_white) {
   for (int depth = 1; depth <= IDS_MAX_DEPTH; depth++) {
     hashmap.clear();
     DLS_MAX_DEPTH = depth;
+    fprintf(stderr, "\n\nprofondeur max : %d\n", depth);
     solution.resize(DLS_MAX_DEPTH);
     solved = false;
     DLS(state, 0, is_white);
