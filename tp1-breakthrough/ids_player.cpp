@@ -6,7 +6,7 @@
 #include <unordered_map>
 #include "mybt.h"
 
-#define IDS_MAX_DEPTH 5
+#define IDS_MAX_DEPTH 2
 
 
 bt_t B;
