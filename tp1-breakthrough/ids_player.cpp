@@ -19,6 +19,7 @@ std::unordered_map<std::string, int> hashmap;
 
 // Tableau pour stocker les coups par profondeur
 std::vector<bt_move_t> solution;
+std::vector<bt_move_t> solution_copy;
 int solution_size = 0;
 
 bt_t best_solution;
@@ -149,7 +150,6 @@ void printMove(bt_move_t move, int depth) {
   fprintf(stderr, "(%d)%s\n", depth, str.c_str());
 }
 
-
 // Appliquer un coup et retourner le nouvel état
 bt_t applyMove(const bt_t &state, const bt_move_t &move) {
   bt_t new_state = state;
@@ -168,13 +168,15 @@ void DLS(bt_t &state, int depth, bool is_white) {
       // Si c'est le tour des blancs, on cherche le maximum
       if (heuristique(state, is_white, true) > heuristique(best_solution, is_white)) {
         best_solution = state;
-        fprintf(stderr, "new best solution\n");
+        solution_copy = solution;
+        fprintf(stderr, "          \x1B[31mnew best solution\x1B[0m\n");
       }
     } else {
       // Si c'est le tour des noirs, on cherche la plus petite valeur car l'heuristique est inversée
-      if (heuristique(state, is_white) < heuristique(best_solution, is_white)) {
+      if (heuristique(state, is_white, true) < heuristique(best_solution, is_white)) {
         best_solution = state;
-        fprintf(stderr, "new best solution\n");
+        solution_copy = solution;
+        fprintf(stderr, "          \x1B[31mnew best solution\x1B[0m\n");
       }
     }
 
@@ -221,7 +223,7 @@ bt_move_t IDS(bt_t& state, bool is_white) {
     if (solution_size != 0) break;
   }
 
-  return solution[0];  // Le premier coup menant à la solution trouvée
+  return solution_copy[0];  // Le premier coup menant à la solution trouvée
 }
 
 void genmove() {
