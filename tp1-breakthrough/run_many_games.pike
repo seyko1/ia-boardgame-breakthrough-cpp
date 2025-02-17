@@ -46,9 +46,9 @@ class btp_server { // breakthrough text protocol server
   }
   
   array send_command(string command) {
-#if DUMP_GTP_PIPES
+    #if DUMP_GTP_PIPES
     werror("[%s] %s\n", engine_name ? engine_name : "", command);
-#endif
+    #endif
     command = String.trim_all_whites(command);
     sscanf(command, "%[0-9]", string id);
     if (command[0] == '#' || command == id) return ({ 0, "" });
@@ -58,9 +58,9 @@ class btp_server { // breakthrough text protocol server
       server_is_up = 0;
       error("Engine `%s' playing crashed!", command_line);
     }
-#if DUMP_GTP_PIPES
+    #if DUMP_GTP_PIPES
     werror("%s\n", response);
-#endif
+    #endif
     array result;
     int id_length = strlen(id);
     if (response && response[..id_length] == "=" + id)
@@ -72,9 +72,9 @@ class btp_server { // breakthrough text protocol server
     result[1] = String.trim_all_whites(result[1]);
     while (1) {
       response = file_in->gets();
-#if DUMP_GTP_PIPES
+      #if DUMP_GTP_PIPES
       werror("%s\n", response);
-#endif
+      #endif
       if (response == "") {
         if (result[0] < 0) {
           werror("Warning, unrecognized response to command `%s':\n", command);
@@ -85,21 +85,27 @@ class btp_server { // breakthrough text protocol server
       result[1] += "\n" + response;
     }
   }
+
   string get_name() {
     return send_command("name")[1];
   }
+
   string generate_move() {
     return send_command("genmove")[1];
   }
+
   void new_game(int _nbl, int _nbc) {
     send_command("newgame "+_nbl+" "+_nbc);
   }
+
   void move(string _movestr) {
     send_command("play " +_movestr);
   }
+
   string get_extra() {
     return send_command("extra")[1];
   }
+
   void quit() {
     send_command("quit");
   }
@@ -154,6 +160,7 @@ class btp_game {
       output_dir = new_output_dir;
     }
   }
+
   void show_endgame() {
     print_board();
     werror("(%s %d %.2f) (%s %d %.2f) ",
@@ -167,6 +174,7 @@ class btp_game {
       werror("=> draw game\n");
     }
   }
+
   void print_score(string file_name) {
     Stdio.File o = Stdio.File();
     if(!o->open(file_name,"wac")) {
@@ -185,6 +193,7 @@ class btp_game {
     }
     o->close();
   }
+
   // @ is black player and o is white player
   void init_board() {
     nb_turn = 0;
@@ -203,6 +212,7 @@ class btp_game {
     for(int i = (board_nbl-2)*board_nbc; i < board_nbl*board_nbc; i++)
       board[i] = 'o';
   }
+
   void print_board() {
     bool color_print = false;
     if(color_print) {
@@ -232,6 +242,7 @@ class btp_game {
       werror("%c ", 'a'+j);
     werror("\n");
   }
+
   bool play_move(string move) {
     if(verbose >= 1) werror("==== play_move "+move+"\n");
     if(move == "PASS") { nb_turn ++; return true; }
@@ -257,6 +268,7 @@ class btp_game {
     nb_turn ++;
     return true;
   }
+
   bool endgame() {
     for(int i = 0; i < board_nbc; i++)
       if(board[i] == 'o') return true;
@@ -274,6 +286,7 @@ class btp_game {
     if(nb_black == 0) return true;
     return false;
   }
+
   int count_pawn_on_board() {
     int ret = 0;
     for(int i = 0; i < board_nbl*board_nbc; i++) {
@@ -281,6 +294,7 @@ class btp_game {
     }
     return ret;
   }
+
   void play() {
     if (verbose >= 2) werror("\nBeginning a new game.\n");
     p0_new_win = 0;
@@ -382,9 +396,11 @@ class btp_game {
       }
     }
   }
+
   void game_stats() {
     werror("game_length: "+p0->get_extra()+"\n");
   }
+
   void finalize() {
     p0->quit(); p1->quit(); 
   }
