@@ -35,9 +35,9 @@ bool showboard_at_each_move = false;
 
 void help() {
   fprintf(stderr, "  quit\n");
-  fprintf(stderr, "  echo ON | OFF\n");
   fprintf(stderr, "  help\n");
-  fprintf(stderr, "  name <PLAYER_NAME>\n");
+  fprintf(stderr, "  debug ON | OFF\n");
+  fprintf(stderr, "  name\n");
   fprintf(stderr, "  newgame <NBCOL> <NBLINE>\n");
   fprintf(stderr, "  genmove\n");
   fprintf(stderr, "  play <L0C0L1C1>\n");
@@ -263,7 +263,6 @@ void play(char a, char b, char c, char d) {
 }
 
 int main(int _ac, char** _av) {
-  bool echo_on = false;
   setbuf(stdout, 0);
   setbuf(stderr, 0);
 
@@ -272,10 +271,9 @@ int main(int _ac, char** _av) {
   
   for (std::string line; std::getline(std::cin, line);) {
     if (verbose) fprintf(stderr, "%s receive %s\n", PLAYER_NAME, line.c_str());
-    if (echo_on) if(verbose) fprintf(stderr, "%s\n", line.c_str());
     if (line.compare("quit") == 0) { printf("= \n\n"); break; }
-    else if( line.compare("echo ON") == 0) echo_on = true;
-    else if( line.compare("echo OFF") == 0) echo_on = false;
+    else if( line.compare("debug ON") == 0) debug = true;
+    else if( line.compare("debug OFF") == 0) debug = false;
     else if (line.compare("help") == 0) help();
     else if (line.compare("name") == 0) name();
     else if (sscanf(line.c_str(), "newgame %d %d", &boardheight, &boardwidth) == 2) newgame();
@@ -284,7 +282,6 @@ int main(int _ac, char** _av) {
     else if (line == "showboard") showboard();
     else if (line.compare(0,2,"//") == 0) ; // just comments
     else fprintf(stderr, "???\n");
-    if (echo_on) printf(">");
   }
 
   if(verbose) fprintf(stderr, "bye.\n");
