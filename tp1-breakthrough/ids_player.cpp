@@ -140,20 +140,17 @@ void DLS(bt_t &state, int depth, bool is_white) {
     std::string state_hash = state.board_to_string(is_white);
     hashmap[state_hash] = depth;
 
-    if (is_white) {
-      // Si c'est le tour des blancs, on cherche le maximum
-      if (heuristique(state, is_white, true) > heuristique(best_solution, is_white)) {
-        best_solution = state;
-        solution_copy = solution;
-        fprintf(stderr, "          \x1B[31mnew best solution\x1B[0m\n");
-      }
-    } else {
-      // Si c'est le tour des noirs, on cherche la plus petite valeur car l'heuristique est inversée
-      if (heuristique(state, is_white, true) < heuristique(best_solution, is_white)) {
-        best_solution = state;
-        solution_copy = solution;
-        fprintf(stderr, "          \x1B[31mnew best solution\x1B[0m\n");
-      }
+    double currentH = heuristique(state, is_white, true);
+    double bestH    = heuristique(best_solution, is_white);
+
+    // Chercher une valeur supérieure pour les pions blanc, inférieure sinon. 
+    bool bestSolutionFound = is_white ? currentH > bestH : currentH < bestH;
+
+    if (bestSolutionFound) {
+      best_solution = state;
+      // stocke la séquence de coups menant à cet état
+      solution_copy = solution;
+      fprintf(stderr, "          \x1B[31mnew best solution\x1B[0m\n");
     }
 
     int game_status = state.endgame();
