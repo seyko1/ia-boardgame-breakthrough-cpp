@@ -7,6 +7,7 @@
 #include "mybt.h"
 
 #define IDS_MAX_DEPTH 2
+#define PLAYER_NAME "fg_player"
 
 bt_t B;
 int boardwidth = 0;
@@ -27,7 +28,8 @@ bool solved = false;
 
 #ifndef VERBOSE_IDS_PLAYER
 #define VERBOSE_IDS_PLAYER
-bool verbose = true;
+bool verbose = false;
+bool debug = false;
 bool showboard_at_each_move = false;
 #endif
 
@@ -43,7 +45,7 @@ void help() {
 }
 
 void name() {
-  printf("= ids_player\n\n");
+  printf("= %s\n\n", PLAYER_NAME);
 }
 
 void newgame() {
@@ -67,7 +69,7 @@ void showboard() {
 }
 
 // Renvoie une valeur d'évaluation de la position du jeu
-double heuristique(const bt_t &state, bool is_white, bool is_current = false) {
+double heuristique(const bt_t &state, int depth, bool is_white, bool is_current_state) {
   int white_pieces = 0, black_pieces = 0, white_distance = 0, black_distance = 0;
   double avantage_pieces, avantage_distance, result;
 
@@ -95,10 +97,13 @@ double heuristique(const bt_t &state, bool is_white, bool is_current = false) {
 
   result = 0.3 * avantage_pieces + 0.7 * avantage_distance;
 
-  if (is_current) {
-    fprintf(stderr, "  avantage_pieces : %f\n", avantage_pieces);
-    fprintf(stderr, "  avantage_distance : %f\n", avantage_distance);
-    fprintf(stderr, "  result : %f\n", result);
+  if (debug && is_current_state) {
+    for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
+    fprintf(stderr, "avantage_pieces : %f\n", avantage_pieces);
+    for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
+    fprintf(stderr, "avantage_distance : %f\n", avantage_distance);
+    for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
+    fprintf(stderr, "result : %f\n", result);
   }
   return result;
 }
@@ -123,6 +128,7 @@ void printMove(bt_move_t move, int depth) {
                     std::string(1, c) +
                     std::string(1, d);
 
+  for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
   fprintf(stderr, "(%d)%s\n", depth, str.c_str());
 }
 
@@ -140,8 +146,8 @@ void DLS(bt_t &state, int depth, bool is_white) {
     std::string state_hash = state.board_to_string(is_white);
     hashmap[state_hash] = depth;
 
-    double currentH = heuristique(state, is_white, true);
-    double bestH    = heuristique(best_solution, is_white);
+    double currentH = heuristique(state, depth, is_white, true);
+    double bestH    = heuristique(best_solution, depth, is_white, false);
 
     // Chercher une valeur supérieure pour les pions blanc, inférieure sinon. 
     bool bestSolutionFound = is_white ? currentH > bestH : currentH < bestH;
@@ -150,7 +156,10 @@ void DLS(bt_t &state, int depth, bool is_white) {
       best_solution = state;
       // stocke la séquence de coups menant à cet état
       solution_copy = solution;
-      fprintf(stderr, "          \x1B[31mnew best solution\x1B[0m\n");
+      if (debug) {
+        for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
+        fprintf(stderr, "\x1B[31mMeilleure solution trouvée\x1B[0m\n");
+      }
     }
 
     int game_status = state.endgame();
@@ -162,14 +171,19 @@ void DLS(bt_t &state, int depth, bool is_white) {
     if (depth == DLS_MAX_DEPTH) return;
 
     std::vector<bt_move_t> moves = nextMoves(state);
-    fprintf(stderr, "%ld coups trouvés\n", moves.size());
+
+    if (debug) {
+      for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
+      fprintf(stderr, "\x1B[33m%ld coups trouvés\x1B[0m\n", moves.size());
+    }
 
     for (bt_move_t move : moves) {
-      printMove(move, depth);
+      if (debug) printMove(move, depth);
       bt_t new_solution = applyMove(state, move);
 
       std::string new_hash = new_solution.board_to_string(is_white);
 
+      // Si l'état new_solution n'a jamais été visité auparavant.
       if (hashmap.find(new_hash) == hashmap.end() || hashmap[new_hash] > depth) {
         solution[depth] = move;
         DLS(new_solution, depth + 1, is_white);
@@ -188,7 +202,11 @@ bt_move_t IDS(bt_t& state, bool is_white) {
   for (int depth = 1; depth <= IDS_MAX_DEPTH; depth++) {
     hashmap.clear();
     DLS_MAX_DEPTH = depth;
-    fprintf(stderr, "\n\nprofondeur max : %d\n", depth);
+
+    if (debug) {
+      fprintf(stderr, "\x1B[36mProfondeur max : %d\x1B[0m\n", depth); 
+    }
+
     solution.resize(DLS_MAX_DEPTH);
     solved = false;
     DLS(state, 0, is_white);
@@ -249,11 +267,11 @@ int main(int _ac, char** _av) {
   setbuf(stdout, 0);
   setbuf(stderr, 0);
 
-  if(verbose) fprintf(stderr, "ids_player started\n");
+  if(verbose) fprintf(stderr, "%s started\n", PLAYER_NAME);
   char a,b,c,d; // for play cmd
   
   for (std::string line; std::getline(std::cin, line);) {
-    if (verbose) fprintf(stderr, "ids_player receive %s\n", line.c_str());
+    if (verbose) fprintf(stderr, "%s receive %s\n", PLAYER_NAME, line.c_str());
     if (echo_on) if(verbose) fprintf(stderr, "%s\n", line.c_str());
     if (line.compare("quit") == 0) { printf("= \n\n"); break; }
     else if( line.compare("echo ON") == 0) echo_on = true;
