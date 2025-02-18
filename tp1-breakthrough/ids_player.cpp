@@ -37,6 +37,7 @@ void help() {
   fprintf(stderr, "  quit\n");
   fprintf(stderr, "  help\n");
   fprintf(stderr, "  debug ON | OFF\n");
+  fprintf(stderr, "  verbose ON | OFF\n");
   fprintf(stderr, "  name\n");
   fprintf(stderr, "  newgame <NBCOL> <NBLINE>\n");
   fprintf(stderr, "  genmove\n");
@@ -274,6 +275,8 @@ int main(int _ac, char** _av) {
     if (line.compare("quit") == 0) { printf("= \n\n"); break; }
     else if( line.compare("debug ON") == 0) debug = true;
     else if( line.compare("debug OFF") == 0) debug = false;
+    else if( line.compare("verbose ON") == 0) verbose = true;
+    else if( line.compare("verbose OFF") == 0) verbose = false;
     else if (line.compare("help") == 0) help();
     else if (line.compare("name") == 0) name();
     else if (sscanf(line.c_str(), "newgame %d %d", &boardheight, &boardwidth) == 2) newgame();
