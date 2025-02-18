@@ -2,8 +2,7 @@ EXECUTABLE="./fg_player"
 
 # Vérifier si l'exécutable existe
 if [ ! -f "$EXECUTABLE" ]; then
-    echo "Erreur : L'exécutable $EXECUTABLE est introuvable."
-    exit 1
+    make
 fi
 
 {
@@ -17,3 +16,4 @@ fi
 } | "$EXECUTABLE"
 
 echo "fin du test"
+make clean
