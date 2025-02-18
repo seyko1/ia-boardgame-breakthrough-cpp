@@ -175,6 +175,21 @@ class btp_game {
     }
   }
 
+  void save_game_length_stats() {
+    string filename = p0_name[2..] + "_vs_" + p1_name[2..] + "_games_length.txt";
+    Stdio.File stats_file = Stdio.File();
+
+    write("aaaaaaaaaaaaaa %s\n", filename);
+    if (!stats_file->open(output_dir + "/" + filename, "wac")) {
+      write("Erreur : impossible d'ouvrir %s\n", filename);
+      return;
+    }
+
+    stats_file->write(";%d", nb_turn);
+
+    stats_file->close();
+  }
+
   void print_score(string file_name) {
     Stdio.File o = Stdio.File();
     if(!o->open(file_name,"wac")) {
@@ -395,6 +410,7 @@ class btp_game {
         break;
       }
     }
+    save_game_length_stats();
   }
 
   void game_stats() {
