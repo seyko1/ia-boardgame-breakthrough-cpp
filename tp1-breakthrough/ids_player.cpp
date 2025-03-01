@@ -10,8 +10,8 @@
 #define PLAYER_NAME "fg_player"
 
 bt_t B;
-int boardwidth = 0;
-int boardheight = 0;
+int board_width = 0;
+int board_height = 0;
 bool white_turn = true;
 int DLS_MAX_DEPTH = 5;
 
@@ -50,16 +50,16 @@ void name() {
 }
 
 void newgame() {
-  if((boardheight < 1 || boardheight > 10) && (boardwidth < 1 || boardwidth > 10)) {
-    fprintf(stderr, "boardsize is %d %d ???\n", boardheight, boardwidth);
+  if((board_height < 1 || board_height > 10) && (board_width < 1 || board_width > 10)) {
+    fprintf(stderr, "boardsize is %d %d ???\n", board_height, board_width);
     printf("= \n\n");
     return;
   }
 
-  B.init(boardheight, boardwidth);
+  B.init(board_height, board_width);
   white_turn = true;
 
-  if(verbose) fprintf(stderr, "ready to play on %dx%d board\n", boardheight, boardwidth);
+  if(verbose) fprintf(stderr, "ready to play on %dx%d board\n", board_height, board_width);
 
   printf("= \n\n");
 }
@@ -78,11 +78,11 @@ double heuristique(const bt_t &state, int depth, bool is_white, bool is_current_
   // Distance totale cumulée dans l'état de départ avec deux lignes rempli de pions.
   int max_distance = (state.nbl - 1) * state.nbc + (state.nbl - 2) * state.nbc;
 
-  for (int i = 0; i < boardheight; i++) {
-    for (int j = 0; j < boardwidth; j++) {
+  for (int i = 0; i < board_height; i++) {
+    for (int j = 0; j < board_width; j++) {
       if (state.board[i][j] == WHITE) {
         white_pieces++;
-        white_distance += (boardheight - i - 1);
+        white_distance += (board_height - i - 1);
       }
       else if (state.board[i][j] == BLACK) {
         black_pieces++;
@@ -119,9 +119,9 @@ std::vector<bt_move_t> nextMoves(bt_t &state) {
 void printMove(bt_move_t move, int depth) {
   char a, b, c, d;
 
-  a = '0' + (boardheight - move.line_i);
+  a = '0' + (board_height - move.line_i);
   b = 'a' + move.col_i;
-  c = '0' + (boardheight - move.line_f);
+  c = '0' + (board_height - move.line_f);
   d = 'a' + move.col_f;
 
   std::string str = std::string(1, a) +
@@ -147,13 +147,13 @@ void DLS(bt_t &state, int depth, bool is_white) {
     std::string state_hash = state.board_to_string(is_white);
     hashmap[state_hash] = depth;
 
-    double currentH = heuristique(state, depth, is_white, true);
-    double bestH    = heuristique(best_solution, depth, is_white, false);
+    double current_h = heuristique(state, depth, is_white, true);
+    double best_h    = heuristique(best_solution, depth, is_white, false);
 
     // Chercher une valeur supérieure pour les pions blanc, inférieure sinon. 
-    bool bestSolutionFound = is_white ? currentH > bestH : currentH < bestH;
+    bool best_solution_found = is_white ? current_h > best_h : current_h < best_h;
 
-    if (bestSolutionFound) {
+    if (best_solution_found) {
       best_solution = state;
       // stocke la séquence de coups menant à cet état
       solution_copy = solution;
@@ -194,7 +194,6 @@ void DLS(bt_t &state, int depth, bool is_white) {
     }
 }
 
-// Recherche IDS
 bt_move_t IDS(bt_t& state, bool is_white) {
   solution.clear();
   solution_size = 0;
@@ -243,9 +242,9 @@ void genmove() {
 // Jouer un coup donné
 void play(char a, char b, char c, char d) {
   bt_move_t m;
-  m.line_i = boardheight-(a-'0');
+  m.line_i = board_height-(a-'0');
   m.col_i = b-'a';
-  m.line_f = boardheight-(c-'0');
+  m.line_f = board_height-(c-'0');
   m.col_f = d-'a';
 
   if(B.can_play(m)) {
@@ -279,7 +278,7 @@ int main(int _ac, char** _av) {
     else if( line.compare("verbose OFF") == 0) verbose = false;
     else if (line.compare("help") == 0) help();
     else if (line.compare("name") == 0) name();
-    else if (sscanf(line.c_str(), "newgame %d %d", &boardheight, &boardwidth) == 2) newgame();
+    else if (sscanf(line.c_str(), "newgame %d %d", &board_height, &board_width) == 2) newgame();
     else if (line.compare("genmove") == 0) genmove();
     else if (sscanf(line.c_str(), "play %c%c%c%c\n", &a,&b,&c,&d) == 4) play(a,b,c,d);
     else if (line == "showboard") showboard();
