@@ -16,10 +16,10 @@ int board_height = 0;
 bool white_turn = true;
 int dls_max_depth = DLS_MAX_DEPTH_DEFAULT;
 
-// Table de hashage pour stocker les profondeurs des états explorés
+// Stocke les états explorés et leur profondeur
 std::unordered_map<std::string, int> hashmap;
 
-// Tableau pour stocker les coups par profondeur
+// Stocke les coups joués par profondeur vers une solution
 std::vector<bt_move_t> solution;
 std::vector<bt_move_t> solution_copy;
 int solution_size = 0;
@@ -34,7 +34,7 @@ bool debug = false;
 bool showboard_at_each_move = false;
 #endif
 
-void help() {
+void displayHelp() {
   fprintf(stderr, "  quit\n");
   fprintf(stderr, "  help\n");
   fprintf(stderr, "  debug ON | OFF\n");
@@ -46,11 +46,11 @@ void help() {
   fprintf(stderr, "  showboard\n");
 }
 
-void name() {
+void displayName() {
   printf("= %s\n\n", PLAYER_NAME);
 }
 
-void newgame() {
+void startNewGame() {
   if((board_height < 1 || board_height > 10) && (board_width < 1 || board_width > 10)) {
     fprintf(stderr, "boardsize is %d %d ???\n", board_height, board_width);
     printf("= \n\n");
@@ -65,7 +65,7 @@ void newgame() {
   printf("= \n\n");
 }
 
-void showboard() {
+void displayBoard() {
   B.print_board(stderr);
   printf("= \n\n");
 }
@@ -218,7 +218,7 @@ bt_move_t iterativeDeepeningSearch(bt_t& state, bool is_white) {
   return solution_copy[0];  // Le premier coup menant à la solution trouvée
 }
 
-void genmove() {
+void generateMove() {
   int ret = B.endgame();
   if (ret != EMPTY) {
     fprintf(stderr, "game finished\n");
@@ -240,15 +240,15 @@ void genmove() {
   printf("= %s\n\n", best_move.tostr(B.nbl).c_str());
 }
 
-// Jouer un coup donné
-void play(char a, char b, char c, char d) {
+// Joue un coup selon les positions de départ à d'arrivée renseignées
+void playMove(char a, char b, char c, char d) {
   bt_move_t m;
   m.line_i = board_height-(a-'0');
   m.col_i = b-'a';
   m.line_f = board_height-(c-'0');
   m.col_f = d-'a';
 
-  if(B.can_play(m)) {
+  if (B.can_play(m)) {
     B.play(m);
     if(verbose) {
       m.print(stderr, white_turn, B.nbl);
@@ -259,7 +259,7 @@ void play(char a, char b, char c, char d) {
     fprintf(stderr, "CANT play %d %d %d %d ?\n", m.line_i, m.col_i, m.line_f, m.col_f);
   }
 
-  if(showboard_at_each_move) showboard();
+  if (showboard_at_each_move) displayBoard();
   printf("= \n\n");
 }
 
@@ -267,27 +267,44 @@ int main(int _ac, char** _av) {
   setbuf(stdout, 0);
   setbuf(stderr, 0);
 
-  if(verbose) fprintf(stderr, "%s started\n", PLAYER_NAME);
-  char a,b,c,d; // for play cmd
+  if (verbose) fprintf(stderr, "%s started\n", PLAYER_NAME);
+  char a,b,c,d;
   
   for (std::string line; std::getline(std::cin, line);) {
-    if (verbose) fprintf(stderr, "%s receive %s\n", PLAYER_NAME, line.c_str());
-    if (line.compare("quit") == 0) { printf("= \n\n"); break; }
-    else if( line.compare("debug ON") == 0) debug = true;
-    else if( line.compare("debug OFF") == 0) debug = false;
-    else if( line.compare("verbose ON") == 0) verbose = true;
-    else if( line.compare("verbose OFF") == 0) verbose = false;
-    else if (line.compare("help") == 0) help();
-    else if (line.compare("name") == 0) name();
-    else if (sscanf(line.c_str(), "newgame %d %d", &board_height, &board_width) == 2) newgame();
-    else if (line.compare("genmove") == 0) genmove();
-    else if (sscanf(line.c_str(), "play %c%c%c%c\n", &a,&b,&c,&d) == 4) play(a,b,c,d);
-    else if (line == "showboard") showboard();
-    else if (line.compare(0,2,"//") == 0) ; // just comments
-    else fprintf(stderr, "???\n");
+    if (verbose)
+      fprintf(stderr, "%s receive %s\n", PLAYER_NAME, line.c_str());
+
+    if (line == "quit") {
+      printf("= \n\n");
+      break;
+    } else if (line == "debug ON") {
+      debug = true;
+    } else if (line == "debug OFF") {
+      debug = false;
+    } else if (line == "verbose ON") {
+      verbose = true;
+    } else if (line == "verbose OFF") {
+      verbose = false;
+    } else if (line == "help") {
+      displayHelp();
+    } else if (line == "name") {
+      displayName();
+    } else if (sscanf(line.c_str(), "newgame %d %d", &board_height, &board_width) == 2) {
+      startNewGame();
+    } else if (line == "genmove") {
+      generateMove();
+    } else if (sscanf(line.c_str(), "play %c%c%c%c", &a, &b, &c, &d) == 4) {
+      playMove(a, b, c, d);
+    } else if (line == "showboard") {
+      displayBoard();
+    } else if (line.compare(0, 2, "//") == 0) {
+      // Commentaires
+    } else {
+      fprintf(stderr, "Unknown command: %s\n", line.c_str());
+    }
   }
 
-  if(verbose) fprintf(stderr, "bye.\n");
+  if (verbose) fprintf(stderr, "bye.\n");
 
   return 0;
 }
