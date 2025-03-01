@@ -7,13 +7,14 @@
 #include "mybt.h"
 
 #define IDS_MAX_DEPTH 2
+#define DLS_MAX_DEPTH_DEFAULT 5
 #define PLAYER_NAME "fg_player"
 
 bt_t B;
 int board_width = 0;
 int board_height = 0;
 bool white_turn = true;
-int DLS_MAX_DEPTH = 5;
+int dls_max_depth = DLS_MAX_DEPTH_DEFAULT;
 
 // Table de hashage pour stocker les profondeurs des états explorés
 std::unordered_map<std::string, int> hashmap;
@@ -169,7 +170,7 @@ void DLS(bt_t &state, int depth, bool is_white) {
       return;
     }
 
-    if (depth == DLS_MAX_DEPTH) return;
+    if (depth == dls_max_depth) return;
 
     std::vector<bt_move_t> moves = nextMoves(state);
 
@@ -201,13 +202,13 @@ bt_move_t IDS(bt_t& state, bool is_white) {
 
   for (int depth = 1; depth <= IDS_MAX_DEPTH; depth++) {
     hashmap.clear();
-    DLS_MAX_DEPTH = depth;
+    dls_max_depth = depth;
 
     if (debug) {
       fprintf(stderr, "\x1B[36mProfondeur max : %d\x1B[0m\n", depth); 
     }
 
-    solution.resize(DLS_MAX_DEPTH);
+    solution.resize(dls_max_depth);
     solved = false;
     DLS(state, 0, is_white);
 
