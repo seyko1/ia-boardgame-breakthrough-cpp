@@ -142,7 +142,7 @@ bt_t applyMove(const bt_t &state, const bt_move_t &move) {
 }
 
 // Trouve la meilleure solution pour un état donné du jeu
-void DLS(bt_t &state, int depth, bool is_white) {
+void depthLimitedSearch(bt_t &state, int depth, bool is_white) {
     if (solution_size != 0) return;
 
     std::string state_hash = state.board_to_string(is_white);
@@ -188,14 +188,14 @@ void DLS(bt_t &state, int depth, bool is_white) {
       // Si l'état new_solution n'a jamais été visité auparavant.
       if (hashmap.find(new_hash) == hashmap.end() || hashmap[new_hash] > depth) {
         solution[depth] = move;
-        DLS(new_solution, depth + 1, is_white);
+        depthLimitedSearch(new_solution, depth + 1, is_white);
       }
 
       if (solution_size != 0) break;
     }
 }
 
-bt_move_t IDS(bt_t& state, bool is_white) {
+bt_move_t iterativeDeepeningSearch(bt_t& state, bool is_white) {
   solution.clear();
   solution_size = 0;
   best_solution = state;
@@ -210,7 +210,7 @@ bt_move_t IDS(bt_t& state, bool is_white) {
 
     solution.resize(dls_max_depth);
     solved = false;
-    DLS(state, 0, is_white);
+    depthLimitedSearch(state, 0, is_white);
 
     if (solution_size != 0) break;
   }
@@ -228,7 +228,7 @@ void genmove() {
     return;
   }
 
-  bt_move_t best_move = IDS(B, white_turn);
+  bt_move_t best_move = iterativeDeepeningSearch(B, white_turn);
   B.play(best_move);
 
   if (verbose) {
