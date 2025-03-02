@@ -9,7 +9,7 @@
 #define IDS_MAX_DEPTH 2
 // 1 si le premier coup doit être aléatoire, 0 sinon.
 #define FIRST_MOVE_RANDOM 0
-#define PLAYER_NAME "fg_player"
+#define PLAYER_NAME "player1"
 
 bt_t B;
 int board_width = 0;

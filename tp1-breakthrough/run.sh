@@ -1,4 +1,4 @@
-EXECUTABLE="./players/fg_player"
+EXECUTABLE="./players/player1"
 
 # Vérifier si l'exécutable existe
 if [ ! -f "$EXECUTABLE" ]; then
