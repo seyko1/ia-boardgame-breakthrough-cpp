@@ -1,8 +1,62 @@
-# Heuristique d'évaluation
+# IA pour le jeu de plateau Breakthrough
 
-- 2 critères principaux pour évaluer l'état du jeu et attribuer un score à un joueur donné.
+### Exécution
 
-## 1. Différence du nombre de pions ⚪⚫
+### Pré-requis
+
+- Pike (https://pike.lysator.liu.se/)
+- Compilateur g++  
+
+### Lancer une partie en ligne de commande
+
+Compiler et lancer l'executable depuis le répertoire de build `players` :
+```
+cd tp1-breakthrough
+make && ./players/player1
+```
+
+Jouer un coup sur une grille 6x10 et afficher l'état du plateau :
+```
+newgame 6 10
+genmove
+showboard
+```
+
+### Executer le script de test
+
+Le script `run.sh` permet de faire un premier test rapide du programme.
+
+```
+cd tp1-breakthrough
+./run.sh
+```
+
+### Executer plusieurs parties et générer des fichiers de logs
+
+Le script `mk_stats.sh` permet de lancer plusieurs parties entre deux joueurs et consulter les logs dans un répertoire `new_stats`.  
+Il est possible de configurer le nom des deux programmes, le nombre de parties et la configuration de la grille dans le script.
+
+```
+cd tp1-breakthrough
+./mk_stats.sh
+```
+
+### Executer plusieurs parties à l'aide de la commande pike
+
+Le script `run_many_games.pike` peut être executé pour faire jouer deux programmes en ajustant des options de configuration.  
+Les options sont renseignés au début du script.
+
+Commande pour lancer 10 parties entre `player1` et `player2` sur une grille 6x10 avec une limite d'une seconde de temps de réflexion :
+```
+cd tp1-breakthrough
+pike run_many_games.pike -f ./players/player1 -s ./players/player2 -v 1 -p 1 -l 6 -c 4 -n 10
+```
+
+## Heuristique d'évaluation
+
+La fonction d'heuristique implémentée prend en compte deux critères pour évaluer l'état du jeu et attribuer un score à un joueur donné.
+
+**1. Différence du nombre de pions ⚪⚫**
 
 Un joueur obtient un avantage s'il possède plus de pions sur le plateau et une pénalité s'il en a moins.
 
@@ -10,7 +64,7 @@ Un joueur obtient un avantage s'il possède plus de pions sur le plateau et une 
   → La différence de pions est importante, mais ne doit pas dominer l'évaluation.  
   → L'impact direct sur la victoire est moindre comparé à l'avancée des pions.
 
-## 2. Distance cumulée des pions vers la ligne d'arrivée 🎯
+**2. Distance cumulée des pions vers la ligne d'arrivée 🎯**
 
 On évalue la progression des pions vers la ligne d'arrivée adverse en mesurant la distance de chaque pion.
 
@@ -25,76 +79,21 @@ L'évaluation finale d'un état de jeu combine ces deux critères avec leurs poi
 **Formule de l'heuristique :**  
 Score = `0.3 × (Différence de pions) + 0.7 × (Avancée vers l'objectif)`
 
-
-# Résultat obtenus
-
-## rand_player vs rand_player
-
-**100 parties**  
-Moyenne longueur : 33.58 tours  
-Écart-type       : 9.83 tours
-
-![...](plots/rand_player_vs_rand_player.png)
+## Résultat de parties
+ 
+ 🔨  ... 
 
 
-## fg_player vs rand_player
+## Analyse des longueurs de partie
 
-Moyenne longueur : 8.36  
-Écart-type       : 2.54
+Le script `plots/draw_game_durations_plot.py` permet de créer un plot des longueurs de partie à partir des logs présents dans le répertoire `new_stats`.
 
-| Joueur      | Parties Jouées | Parties Gagnées | % Victoires |
-|-------------|---------------|-----------------|------------- |
-| fg_player   | 100           | 100             | 100%         |
-| rand_player | 100           | 0               | 0%           |
+### Exemple d'analyse graphique
 
-![...](plots/fg_player_vs_rand_player.png)
+Paramètres de **player1** et **player 2** :
+- Recherche IDS
+- Profondeur 2
+- Premier coup aléatoire **SI** premier joueur.
 
-## fg_player vs fg_player2 (depth=2)
 
-Moyenne longueur : 66.00  
-Écart-type       : 0.0
-
-| Joueur      | Parties Jouées | Parties Gagnées | % Victoires |
-|-------------|---------------|-----------------|------------- |
-| fg_player   | 100           | 100             | 100%         |
-| fg_player2  | 100           | 0               | 0%           |
-
-![...](plots/fg_player_vs_fg_player_depth_2.png)
-
-## fg_player (depth=2) vs fg_player2 (depth=3)
-
-Moyenne coups d'une partie : 70.0  
-Écart-type                 : 0
-
-| Joueur      | Parties Jouées | Parties Gagnées | % Victoires |
-|-------------|--------------|-----------------|--------------- |
-| fg_player   | 70           | 0               | 0%             |
-| fg_payer2   | 70           | 100             | 1000%          |
-
-![...](plots/fg_player_depth2_vs_depth3.png)
-
-## Répertoire /plots
-
-- Le répertoire `plots/` contient un script pour générer un graphe de durée de parties à partir d'un des fichiers stockés dans `data/`
-
-Installation de la librairie python matplotlib dans un environnement virtuel:
-
-```
-python -m venv .env
-source .env/bin/activate
-pip install matplotlib
-```
-
-Lancer le script python :
-
-```
-python create_game_length_plot.py <Joueur1> <Joueur2> ../data/<nom-fichier>
-```
-
-## Commande de lancement de 100 parties entre 2 joueurs sur une grille 6*10
-
-```
-pike run_many_games.pike -f ./fg_player -s ./fg_player2 -v 0 -p 1 -l 6 -c 10 -n 100
-```
-
-Un fichier txt est sauvegardé dans `data/` pour stocker le nombre de tours de chaque partie (séparé par des `;`) 
+![...](plots/playerA_vs_playerB.png)
