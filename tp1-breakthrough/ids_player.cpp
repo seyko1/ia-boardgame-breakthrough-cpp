@@ -7,6 +7,8 @@
 #include "mybt.h"
 
 #define IDS_MAX_DEPTH 2
+// 1 si le premier coup doit être aléatoire, 0 sinon.
+#define FIRST_MOVE_RANDOM 0
 #define PLAYER_NAME "fg_player"
 
 bt_t B;
@@ -252,16 +254,18 @@ void generateMove() {
     return;
   }
 
-  bt_move_t best_move = iterativeDeepeningSearch(B, white_turn);
-  B.play(best_move);
+  bt_move_t move = (B.turn == 0 && FIRST_MOVE_RANDOM) ? B.get_rand_move() : iterativeDeepeningSearch(B, white_turn);
+  B.play(move);
 
   if (verbose) {
-    best_move.print(stderr, white_turn, B.nbl);
+    move.print(stderr, white_turn, B.nbl);
     fprintf(stderr, "\n");
   }
 
   white_turn = !white_turn;
-  printf("= %s\n\n", best_move.tostr(B.nbl).c_str());
+  printf("= %s\n\n", move.tostr(B.nbl).c_str());
+
+  if (showboard_at_each_move) displayBoard();
 }
 
 // Joue un coup selon les positions de départ à d'arrivée données.
