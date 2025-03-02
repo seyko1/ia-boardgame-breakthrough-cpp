@@ -50,8 +50,13 @@ void displayName() {
   printf("= %s\n\n", PLAYER_NAME);
 }
 
+void displayBoard() {
+  B.print_board(stderr);
+  printf("= \n\n");
+}
+
 void startNewGame() {
-  if((board_height < 1 || board_height > 10) && (board_width < 1 || board_width > 10)) {
+  if ((board_height < 1 || board_height > 10) && (board_width < 1 || board_width > 10)) {
     fprintf(stderr, "boardsize is %d %d ???\n", board_height, board_width);
     printf("= \n\n");
     return;
@@ -60,17 +65,50 @@ void startNewGame() {
   B.init(board_height, board_width);
   white_turn = true;
 
-  if(verbose) fprintf(stderr, "ready to play on %dx%d board\n", board_height, board_width);
+  if (verbose) fprintf(stderr, "ready to play on %dx%d board\n", board_height, board_width);
 
   printf("= \n\n");
 }
 
-void displayBoard() {
-  B.print_board(stderr);
-  printf("= \n\n");
+// Renvoie la liste des coups possibles dans la configuration de plateau donnée.
+std::vector<bt_move_t> nextMoves(bt_t &state) {
+  state.update_moves();
+  std::vector<bt_move_t> moves(state.moves, state.moves + state.nb_moves);
+  return moves;
 }
 
-// Renvoie une valeur d'évaluation de la position du jeu
+void printMove(bt_move_t move, int depth) {
+  char a, b, c, d;
+
+  a = '0' + (board_height - move.line_i);
+  b = 'a' + move.col_i;
+  c = '0' + (board_height - move.line_f);
+  d = 'a' + move.col_f;
+
+  std::string str = std::string(1, a) +
+                    std::string(1, b) +
+                    std::string(1, c) +
+                    std::string(1, d);
+
+  for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
+  fprintf(stderr, "(%d)%s\n", depth, str.c_str());
+}
+
+// Applique un coup donné et retourne le nouvel état du plateau.
+bt_t applyMove(const bt_t &state, const bt_move_t &move) {
+  bt_t new_state = state;
+  new_state.play(move);
+  return new_state;
+}
+
+/* 
+ * Calcule et renvoie une valeur d'évaluation pour la position actuelle du jeu.
+
+ * state            : l'état à évaluer (représente la configuration actuelle du plateau)..
+ * depth            : la profondeur actuelle de recherche.
+ * is_white         : vrai si c'est le tour des pions blancs, faux sinon.
+ * is_current_state : vrai si l'évaluation se fait sur l'état courant, faus sinon.
+*/
 double heuristique(const bt_t &state, int depth, bool is_white, bool is_current_state) {
   int white_pieces = 0, black_pieces = 0, white_distance = 0, black_distance = 0;
   double avantage_pieces, avantage_distance, result;
@@ -110,38 +148,15 @@ double heuristique(const bt_t &state, int depth, bool is_white, bool is_current_
   return result;
 }
 
-// Obtenir les coups possibles
-std::vector<bt_move_t> nextMoves(bt_t &state) {
-  state.update_moves();
-  std::vector<bt_move_t> moves(state.moves, state.moves + state.nb_moves);
-  return moves;
-}
-
-void printMove(bt_move_t move, int depth) {
-  char a, b, c, d;
-
-  a = '0' + (board_height - move.line_i);
-  b = 'a' + move.col_i;
-  c = '0' + (board_height - move.line_f);
-  d = 'a' + move.col_f;
-
-  std::string str = std::string(1, a) +
-                    std::string(1, b) +
-                    std::string(1, c) +
-                    std::string(1, d);
-
-  for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
-  fprintf(stderr, "(%d)%s\n", depth, str.c_str());
-}
-
-// Appliquer un coup et retourner le nouvel état
-bt_t applyMove(const bt_t &state, const bt_move_t &move) {
-  bt_t new_state = state;
-  new_state.play(move);
-  return new_state;
-}
-
-// Trouve la meilleure solution pour un état donné du jeu
+/* 
+ * Recherche la meilleure solution à une profondeur donnée dans l'état actuel du jeu en limitant la profondeur.
+ * Explore les coups possibles jusqu'à la profondeur spécifiée et évalue les positions à l'aide d'une heuristique.
+ * Si une meilleure solution est trouvée, elle est stockée et les coups menant à cette solution sont mémorisés.
+ * 
+ * state    : l'état à évaluer (représente la configuration actuelle du plateau).
+ * depth    : la profondeur actuelle de recherche.
+ * is_white : vrai si c'est le tour des pions blancs, faux sinon.
+*/
 void depthLimitedSearch(bt_t &state, int depth, bool is_white) {
     if (solution_size != 0) return;
 
@@ -195,6 +210,16 @@ void depthLimitedSearch(bt_t &state, int depth, bool is_white) {
     }
 }
 
+/* 
+ * Recherche de la meilleure solution à différentes profondeurs itératives pour un état donné du jeu.
+ * Augmente la profondeur max progressivement jusqu'à une valeur définie.
+ * Effectue une recherche limitée à chaque profondeur pour trouver le meilleur coup.
+ * 
+ * state    : l'état à évaluer (représente la configuration actuelle du plateau).
+ * is_white : vrai si c'est le tour des pions blancs, faux sinon.
+ * 
+ * Retourne le meilleur coup trouvé lors de l'exécution de la recherche itérative.
+*/
 bt_move_t iterativeDeepeningSearch(bt_t& state, bool is_white) {
   solution.clear();
   solution_size = 0;
@@ -240,7 +265,7 @@ void generateMove() {
   printf("= %s\n\n", best_move.tostr(B.nbl).c_str());
 }
 
-// Joue un coup selon les positions de départ à d'arrivée renseignées
+// Joue un coup selon les positions de départ à d'arrivée données.
 void playMove(char a, char b, char c, char d) {
   bt_move_t m;
   m.line_i = board_height-(a-'0');
