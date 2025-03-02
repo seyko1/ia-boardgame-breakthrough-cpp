@@ -1,4 +1,4 @@
-EXECUTABLE="./fg_player"
+EXECUTABLE="./players/fg_player"
 
 # Vérifier si l'exécutable existe
 if [ ! -f "$EXECUTABLE" ]; then
@@ -16,4 +16,3 @@ fi
 } | "$EXECUTABLE"
 
 echo "fin du test"
-make clean
