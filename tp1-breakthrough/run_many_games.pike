@@ -1,6 +1,6 @@
 #!/usr/bin/env pike
 
-// pike run_many_games.pike -f ./rand_player -s ./rand_player -v 1 -p 1 -l 6 -c 4
+// pike run_many_games.pike -f ./fg_player -s ./fg_player -v 1 -p 1 -l 6 -c 4
 
 //  "Options:\n"
 //  "  -n, --number=NB_GAMES         the number of games to play\n"
@@ -173,21 +173,6 @@ class btp_game {
     } else {
       werror("=> draw game\n");
     }
-  }
-
-  void save_game_length_stats() {
-    string filename = p0_name[2..] + "_vs_" + p1_name[2..] + "_games_length.txt";
-    Stdio.File stats_file = Stdio.File();
-
-    write("aaaaaaaaaaaaaa %s\n", filename);
-    if (!stats_file->open(output_dir + "/" + filename, "wac")) {
-      write("Erreur : impossible d'ouvrir %s\n", filename);
-      return;
-    }
-
-    stats_file->write(";%d", nb_turn);
-
-    stats_file->close();
   }
 
   void print_score(string file_name) {
@@ -410,7 +395,6 @@ class btp_game {
         break;
       }
     }
-    save_game_length_stats();
   }
 
   void game_stats() {
