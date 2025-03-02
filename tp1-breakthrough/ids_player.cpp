@@ -7,14 +7,13 @@
 #include "mybt.h"
 
 #define IDS_MAX_DEPTH 2
-#define DLS_MAX_DEPTH_DEFAULT 5
 #define PLAYER_NAME "fg_player"
 
 bt_t B;
 int board_width = 0;
 int board_height = 0;
 bool white_turn = true;
-int dls_max_depth = DLS_MAX_DEPTH_DEFAULT;
+int dls_max_depth = 0;
 
 // Stocke les états explorés et leur profondeur
 std::unordered_map<std::string, int> hashmap;
