@@ -1,6 +1,6 @@
 #!/usr/bin/env pike
 
-// pike run_many_games.pike -f ./fg_player -s ./fg_player -v 1 -p 1 -l 6 -c 4
+// pike run_many_games.pike -f ./players/player1 -s ./players/player2 -v 1 -p 1 -l 6 -c 4
 
 //  "Options:\n"
 //  "  -n, --number=NB_GAMES         the number of games to play\n"
