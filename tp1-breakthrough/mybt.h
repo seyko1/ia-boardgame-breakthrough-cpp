@@ -2,6 +2,7 @@
 #define MYBT_H
 #include <cstdio>
 #include <cstdlib>
+#include <ctime>
 #include <random>
 #include <string>
 #include <sstream>
@@ -110,6 +111,7 @@ struct bt_t {
 };
 
 void bt_t::init(int _nbl, int _nbc) {
+  srand(time(NULL)); 
   if(_nbl > MAX_LINES || _nbc > MAX_COLS) {
     fprintf(stderr, "ERROR : MAX_LINES or MAX_COLS exceeded\n");
     exit(0);
