@@ -1,0 +1,10 @@
+ ================
+  NB_GAMES_PER_SIDE 50
+  NBL 6
+  NBC 10
+
+  number of wins
+ ================
+    ./players/ia_avantage_distance is 54
+    ./players/ia_equilibre is 46
+ ================
