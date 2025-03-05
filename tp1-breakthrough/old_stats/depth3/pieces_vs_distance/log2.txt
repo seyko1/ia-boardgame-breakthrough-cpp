@@ -1,0 +1,11540 @@
+[] name
+= ia_avantage_distance
+
+[] name
+= ia_avantage_pieces
+
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+nb_turn: 42   timers : 23.40 : 23.43
+6 . . . . . 
+5 . . . . @ 
+4 . . . . @ 
+3 . . . @ . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.40) (./players/ia_avantage_pieces 3 23.43) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3a
+
+[ia_avantage_distance] play 4b3a
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4b
+
+[ia_avantage_pieces] play 3b4b
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 38   timers : 23.37 : 23.48
+6 . . @ . . 
+5 @ . . . @ 
+4 . o o . . 
+3 . . o . . 
+2 . . . . o 
+1 . o . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -9 23.37) (./players/ia_avantage_pieces 9 23.48) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2a
+
+[ia_avantage_pieces] play 1a2a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 45   timers : 23.50 : 23.52
+6 . . . . . 
+5 . . . . . 
+4 . . . o o 
+3 . . . . . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 2 23.50) (./players/ia_avantage_pieces -2 23.52) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3a
+
+[ia_avantage_distance] play 4b3a
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4b
+
+[ia_avantage_pieces] play 3b4b
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 38   timers : 23.37 : 23.49
+6 . . @ . . 
+5 @ . . . @ 
+4 . o o . . 
+3 . . o . . 
+2 . . . . o 
+1 . o . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -9 23.37) (./players/ia_avantage_pieces 9 23.49) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+nb_turn: 42   timers : 23.43 : 23.44
+6 . . . . . 
+5 . . . . @ 
+4 . . . . @ 
+3 . . . @ . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.43) (./players/ia_avantage_pieces 3 23.44) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3a
+
+[ia_avantage_distance] play 4b3a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[ia_avantage_pieces] play 4c5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 3a2b
+
+[ia_avantage_distance] play 3a2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 32   timers : 23.55 : 23.64
+6 . @ . @ . 
+5 . . @ . . 
+4 . . . . . 
+3 . o o . . 
+2 . . . o . 
+1 . o . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -8 23.55) (./players/ia_avantage_pieces 8 23.64) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4d
+
+[ia_avantage_distance] play 5d4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 41   timers : 23.50 : 23.61
+6 . . . . . 
+5 . . . . o 
+4 . . . o o 
+3 . . . . . 
+2 . . . . o 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 4 23.50) (./players/ia_avantage_pieces -4 23.61) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 26   timers : 23.54 : 23.57
+6 . @ @ @ @ 
+5 . . . . . 
+4 . @ @ . . 
+3 . . . . o 
+2 . o o . . 
+1 . . . o @ 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.54) (./players/ia_avantage_pieces 11 23.57) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 26   timers : 23.54 : 23.57
+6 . @ @ @ @ 
+5 . . . . . 
+4 . @ @ . . 
+3 . . . . o 
+2 . o o . . 
+1 . . . o @ 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.54) (./players/ia_avantage_pieces 11 23.57) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2a
+
+[ia_avantage_pieces] play 1a2a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 45   timers : 23.50 : 23.52
+6 . . . . . 
+5 . . . . . 
+4 . . . o o 
+3 . . . . . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 2 23.50) (./players/ia_avantage_pieces -2 23.52) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+nb_turn: 42   timers : 23.44 : 23.45
+6 . . . . . 
+5 . . . . @ 
+4 . . . . @ 
+3 . . . @ . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.44) (./players/ia_avantage_pieces 3 23.45) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+nb_turn: 42   timers : 23.43 : 23.45
+6 . . . . . 
+5 . . . . @ 
+4 . . . . @ 
+3 . . . @ . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.43) (./players/ia_avantage_pieces 3 23.45) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2a
+
+[ia_avantage_pieces] play 1a2a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 45   timers : 23.50 : 23.52
+6 . . . . . 
+5 . . . . . 
+4 . . . o o 
+3 . . . . . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 2 23.50) (./players/ia_avantage_pieces -2 23.52) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5c
+
+[ia_avantage_pieces] play 4d5c
+= 
+
+nb_turn: 37   timers : 23.59 : 23.42
+6 . . . . . 
+5 . . o o . 
+4 . o . . . 
+3 . . . . . 
+2 . . o . . 
+1 o o . . . 
+  a b c d e 
+(./players/ia_avantage_distance 6 23.59) (./players/ia_avantage_pieces -6 23.42) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5c
+
+[ia_avantage_pieces] play 4d5c
+= 
+
+nb_turn: 37   timers : 23.60 : 23.44
+6 . . . . . 
+5 . . o o . 
+4 . o . . . 
+3 . . . . . 
+2 . . o . . 
+1 o o . . . 
+  a b c d e 
+(./players/ia_avantage_distance 6 23.60) (./players/ia_avantage_pieces -6 23.44) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 26   timers : 23.55 : 23.58
+6 . @ @ @ @ 
+5 . . . . . 
+4 . @ @ . . 
+3 . . . . o 
+2 . o o . . 
+1 . . . o @ 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.55) (./players/ia_avantage_pieces 11 23.58) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 26   timers : 23.54 : 23.58
+6 . @ @ @ @ 
+5 . . . . . 
+4 . @ @ . . 
+3 . . . . o 
+2 . o o . . 
+1 . . . o @ 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.54) (./players/ia_avantage_pieces 11 23.58) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 50   timers : 23.40 : 23.52
+6 . . . . . 
+5 @ . . . o 
+4 . . . . . 
+3 . . . . . 
+2 . . . . . 
+1 . . . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.40) (./players/ia_avantage_pieces 3 23.52) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[ia_avantage_pieces] play 4c5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 43   timers : 23.48 : 23.50
+6 . . . . . 
+5 . . . . . 
+4 . . . o o 
+3 . . . . . 
+2 . . . . . 
+1 o . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 3 23.48) (./players/ia_avantage_pieces -3 23.50) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3c
+
+[ia_avantage_pieces] play 2c3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[ia_avantage_pieces] play 3b4a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2c1d
+
+[ia_avantage_distance] play 2c1d
+= 
+
+nb_turn: 26   timers : 23.54 : 23.65
+6 . . @ @ @ 
+5 . . . . @ 
+4 . @ . . . 
+3 . . . o o 
+2 . . . o . 
+1 o . o @ . 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.54) (./players/ia_avantage_pieces 11 23.65) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[ia_avantage_pieces] play 4c5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 43   timers : 23.48 : 23.50
+6 . . . . . 
+5 . . . . . 
+4 . . . o o 
+3 . . . . . 
+2 . . . . . 
+1 o . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 3 23.48) (./players/ia_avantage_pieces -3 23.50) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 20   timers : 23.68 : 23.76
+6 . @ @ . @ 
+5 @ . @ @ @ 
+4 . . . . . 
+3 . . o . o 
+2 . . o o . 
+1 o . o . @ 
+  a b c d e 
+(./players/ia_avantage_distance -14 23.68) (./players/ia_avantage_pieces 14 23.76) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+nb_turn: 42   timers : 23.44 : 23.46
+6 . . . . . 
+5 . . . . @ 
+4 . . . . @ 
+3 . . . @ . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.44) (./players/ia_avantage_pieces 3 23.46) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3c
+
+[ia_avantage_pieces] play 2c3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[ia_avantage_pieces] play 3b4a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2c1d
+
+[ia_avantage_distance] play 2c1d
+= 
+
+nb_turn: 26   timers : 23.52 : 23.65
+6 . . @ @ @ 
+5 . . . . @ 
+4 . @ . . . 
+3 . . . o o 
+2 . . . o . 
+1 o . o @ . 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.52) (./players/ia_avantage_pieces 11 23.65) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[ia_avantage_pieces] play 3b4a
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1d
+
+[ia_avantage_distance] play 2e1d
+= 
+
+nb_turn: 18   timers : 23.73 : 23.68
+6 . @ @ @ @ 
+5 . . @ . @ 
+4 o @ . . . 
+3 . o . . . 
+2 . . . o . 
+1 o o . @ o 
+  a b c d e 
+(./players/ia_avantage_distance -14 23.73) (./players/ia_avantage_pieces 14 23.68) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[ia_avantage_pieces] play 3b4a
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1d
+
+[ia_avantage_distance] play 2e1d
+= 
+
+nb_turn: 18   timers : 23.73 : 23.68
+6 . @ @ @ @ 
+5 . . @ . @ 
+4 o @ . . . 
+3 . o . . . 
+2 . . . o . 
+1 o o . @ o 
+  a b c d e 
+(./players/ia_avantage_distance -14 23.73) (./players/ia_avantage_pieces 14 23.68) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5c
+
+[ia_avantage_pieces] play 4d5c
+= 
+
+nb_turn: 37   timers : 23.59 : 23.41
+6 . . . . . 
+5 . . o o . 
+4 . o . . . 
+3 . . . . . 
+2 . . o . . 
+1 o o . . . 
+  a b c d e 
+(./players/ia_avantage_distance 6 23.59) (./players/ia_avantage_pieces -6 23.41) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 50   timers : 23.38 : 23.52
+6 . . . . . 
+5 @ . . . o 
+4 . . . . . 
+3 . . . . . 
+2 . . . . . 
+1 . . . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.38) (./players/ia_avantage_pieces 3 23.52) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 26   timers : 23.54 : 23.58
+6 . @ @ @ @ 
+5 . . . . . 
+4 . @ @ . . 
+3 . . . . o 
+2 . o o . . 
+1 . . . o @ 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.54) (./players/ia_avantage_pieces 11 23.58) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 20   timers : 23.67 : 23.75
+6 . @ @ . @ 
+5 @ . @ @ @ 
+4 . . . . . 
+3 . . o . o 
+2 . . o o . 
+1 o . o . @ 
+  a b c d e 
+(./players/ia_avantage_distance -14 23.67) (./players/ia_avantage_pieces 14 23.75) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4d
+
+[ia_avantage_distance] play 5d4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 41   timers : 23.51 : 23.61
+6 . . . . . 
+5 . . . . o 
+4 . . . o o 
+3 . . . . . 
+2 . . . . o 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 4 23.51) (./players/ia_avantage_pieces -4 23.61) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4d
+
+[ia_avantage_distance] play 5d4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 41   timers : 23.51 : 23.62
+6 . . . . . 
+5 . . . . o 
+4 . . . o o 
+3 . . . . . 
+2 . . . . o 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 4 23.51) (./players/ia_avantage_pieces -4 23.62) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5c
+
+[ia_avantage_pieces] play 4d5c
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5c
+
+[ia_avantage_distance] play 6d5c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[ia_avantage_pieces] play 3b4a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 5e6d
+
+[ia_avantage_pieces] play 5e6d
+= 
+
+nb_turn: 31   timers : 23.54 : 23.56
+6 . . . o @ 
+5 . . . . . 
+4 @ . . . o 
+3 . . @ . . 
+2 . o . . . 
+1 o o o . . 
+  a b c d e 
+(./players/ia_avantage_distance 9 23.54) (./players/ia_avantage_pieces -9 23.56) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2a
+
+[ia_avantage_pieces] play 1a2a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 45   timers : 23.49 : 23.52
+6 . . . . . 
+5 . . . . . 
+4 . . . o o 
+3 . . . . . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 2 23.49) (./players/ia_avantage_pieces -2 23.52) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 50   timers : 23.38 : 23.51
+6 . . . . . 
+5 @ . . . o 
+4 . . . . . 
+3 . . . . . 
+2 . . . . . 
+1 . . . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.38) (./players/ia_avantage_pieces 3 23.51) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 20   timers : 23.67 : 23.75
+6 . @ @ . @ 
+5 @ . @ @ @ 
+4 . . . . . 
+3 . . o . o 
+2 . . o o . 
+1 o . o . @ 
+  a b c d e 
+(./players/ia_avantage_distance -14 23.67) (./players/ia_avantage_pieces 14 23.75) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3a
+
+[ia_avantage_distance] play 4b3a
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4b
+
+[ia_avantage_pieces] play 3b4b
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 38   timers : 23.37 : 23.50
+6 . . @ . . 
+5 @ . . . @ 
+4 . o o . . 
+3 . . o . . 
+2 . . . . o 
+1 . o . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -9 23.37) (./players/ia_avantage_pieces 9 23.50) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+nb_turn: 42   timers : 23.42 : 23.46
+6 . . . . . 
+5 . . . . @ 
+4 . . . . @ 
+3 . . . @ . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.42) (./players/ia_avantage_pieces 3 23.46) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[ia_avantage_pieces] play 4c5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 43   timers : 23.47 : 23.50
+6 . . . . . 
+5 . . . . . 
+4 . . . o o 
+3 . . . . . 
+2 . . . . . 
+1 o . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 3 23.47) (./players/ia_avantage_pieces -3 23.50) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3c
+
+[ia_avantage_pieces] play 2c3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[ia_avantage_pieces] play 3b4a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2c1d
+
+[ia_avantage_distance] play 2c1d
+= 
+
+nb_turn: 26   timers : 23.53 : 23.64
+6 . . @ @ @ 
+5 . . . . @ 
+4 . @ . . . 
+3 . . . o o 
+2 . . . o . 
+1 o . o @ . 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.53) (./players/ia_avantage_pieces 11 23.64) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4d
+
+[ia_avantage_distance] play 5d4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 41   timers : 23.51 : 23.61
+6 . . . . . 
+5 . . . . o 
+4 . . . o o 
+3 . . . . . 
+2 . . . . o 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 4 23.51) (./players/ia_avantage_pieces -4 23.61) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5e
+
+[ia_avantage_pieces] play 4e5e
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 50   timers : 23.38 : 23.51
+6 . . . . . 
+5 @ . . . o 
+4 . . . . . 
+3 . . . . . 
+2 . . . . . 
+1 . . . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.38) (./players/ia_avantage_pieces 3 23.51) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3c
+
+[ia_avantage_pieces] play 2c3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[ia_avantage_pieces] play 3b4a
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2c1d
+
+[ia_avantage_distance] play 2c1d
+= 
+
+nb_turn: 26   timers : 23.53 : 23.63
+6 . . @ @ @ 
+5 . . . . @ 
+4 . @ . . . 
+3 . . . o o 
+2 . . . o . 
+1 o . o @ . 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.53) (./players/ia_avantage_pieces 11 23.63) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 26   timers : 23.54 : 23.57
+6 . @ @ @ @ 
+5 . . . . . 
+4 . @ @ . . 
+3 . . . . o 
+2 . o o . . 
+1 . . . o @ 
+  a b c d e 
+(./players/ia_avantage_distance -11 23.54) (./players/ia_avantage_pieces 11 23.57) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3a
+
+[ia_avantage_distance] play 4b3a
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[ia_avantage_pieces] play 2b3a
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3e
+
+[ia_avantage_distance] play 4e3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3b
+
+[ia_avantage_pieces] play 2b3b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4b
+
+[ia_avantage_pieces] play 3b4b
+= 
+
+[ia_avantage_pieces] genmove
+= 2d1e
+
+[ia_avantage_distance] play 2d1e
+= 
+
+nb_turn: 38   timers : 23.37 : 23.49
+6 . . @ . . 
+5 @ . . . @ 
+4 . o o . . 
+3 . . o . . 
+2 . . . . o 
+1 . o . . @ 
+  a b c d e 
+(./players/ia_avantage_distance -9 23.37) (./players/ia_avantage_pieces 9 23.49) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 3d2e
+
+[ia_avantage_distance] play 3d2e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 2e1e
+
+[ia_avantage_distance] play 2e1e
+= 
+
+nb_turn: 20   timers : 23.67 : 23.75
+6 . @ @ . @ 
+5 @ . @ @ @ 
+4 . . . . . 
+3 . . o . o 
+2 . . o o . 
+1 o . o . @ 
+  a b c d e 
+(./players/ia_avantage_distance -14 23.67) (./players/ia_avantage_pieces 14 23.75) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[ia_avantage_pieces] play 2a3a
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[ia_avantage_pieces] play 3a4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[ia_avantage_pieces] play 2d3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4a3b
+
+[ia_avantage_distance] play 4a3b
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 3b2c
+
+[ia_avantage_distance] play 3b2c
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[ia_avantage_pieces] play 3e4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5c
+
+[ia_avantage_pieces] play 4d5c
+= 
+
+nb_turn: 37   timers : 23.59 : 23.43
+6 . . . . . 
+5 . . o o . 
+4 . o . . . 
+3 . . . . . 
+2 . . o . . 
+1 o o . . . 
+  a b c d e 
+(./players/ia_avantage_distance 6 23.59) (./players/ia_avantage_pieces -6 23.43) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4d
+
+[ia_avantage_distance] play 5d4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 41   timers : 23.51 : 23.62
+6 . . . . . 
+5 . . . . o 
+4 . . . o o 
+3 . . . . . 
+2 . . . . o 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 4 23.51) (./players/ia_avantage_pieces -4 23.62) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2d3d
+
+[ia_avantage_pieces] play 2d3d
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4d
+
+[ia_avantage_distance] play 5d4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[ia_avantage_pieces] play 3d4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1e2d
+
+[ia_avantage_pieces] play 1e2d
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[ia_avantage_pieces] play 3c4b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 1b2b
+
+[ia_avantage_pieces] play 1b2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2d
+
+[ia_avantage_distance] play 3e2d
+= 
+
+[ia_avantage_distance] genmove
+= 1c2d
+
+[ia_avantage_pieces] play 1c2d
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 3e2e
+
+[ia_avantage_distance] play 3e2e
+= 
+
+[ia_avantage_distance] genmove
+= 1d2e
+
+[ia_avantage_pieces] play 1d2e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+nb_turn: 41   timers : 23.51 : 23.60
+6 . . . . . 
+5 . . . . o 
+4 . . . o o 
+3 . . . . . 
+2 . . . . o 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance 4 23.51) (./players/ia_avantage_pieces -4 23.60) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 5
+= 
+
+[ia_avantage_pieces] newgame 6 5
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[ia_avantage_pieces] play 2a3b
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[ia_avantage_pieces] play 2c3b
+= 
+
+[ia_avantage_pieces] genmove
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 1d2c
+
+[ia_avantage_pieces] play 1d2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[ia_avantage_pieces] play 3b4c
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[ia_avantage_pieces] play 2e3d
+= 
+
+[ia_avantage_pieces] genmove
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 1e2e
+
+[ia_avantage_pieces] play 1e2e
+= 
+
+[ia_avantage_pieces] genmove
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[ia_avantage_pieces] play 2e3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4d3e
+
+[ia_avantage_distance] play 4d3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[ia_avantage_pieces] play 2d3e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 1a2b
+
+[ia_avantage_pieces] play 1a2b
+= 
+
+[ia_avantage_pieces] genmove
+= 3c2b
+
+[ia_avantage_distance] play 3c2b
+= 
+
+[ia_avantage_distance] genmove
+= 1c2b
+
+[ia_avantage_pieces] play 1c2b
+= 
+
+[ia_avantage_pieces] genmove
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3d4e
+
+[ia_avantage_pieces] play 3d4e
+= 
+
+[ia_avantage_pieces] genmove
+= 4b3c
+
+[ia_avantage_distance] play 4b3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[ia_avantage_pieces] play 2b3c
+= 
+
+[ia_avantage_pieces] genmove
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4e5d
+
+[ia_avantage_pieces] play 4e5d
+= 
+
+[ia_avantage_pieces] genmove
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4e
+
+[ia_avantage_pieces] play 3e4e
+= 
+
+[ia_avantage_pieces] genmove
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 1b2c
+
+[ia_avantage_pieces] play 1b2c
+= 
+
+[ia_avantage_pieces] genmove
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[ia_avantage_pieces] play 3c4d
+= 
+
+[ia_avantage_pieces] genmove
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[ia_avantage_pieces] play 4d5e
+= 
+
+[ia_avantage_pieces] genmove
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[ia_avantage_pieces] play 2c3d
+= 
+
+[ia_avantage_pieces] genmove
+= 4c3d
+
+[ia_avantage_distance] play 4c3d
+= 
+
+nb_turn: 42   timers : 23.43 : 23.45
+6 . . . . . 
+5 . . . . @ 
+4 . . . . @ 
+3 . . . @ . 
+2 . . . . . 
+1 . . . . . 
+  a b c d e 
+(./players/ia_avantage_distance -3 23.43) (./players/ia_avantage_pieces 3 23.45) => ./players/ia_avantage_pieces win
+================= player2 WIN
+[ia_avantage_distance] quit
+= 
+
+[ia_avantage_pieces] quit
+= 
+
