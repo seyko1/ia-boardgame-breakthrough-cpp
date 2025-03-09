@@ -254,7 +254,7 @@ void generateMove() {
     return;
   }
 
-  bt_move_t move = (B.turn == 0 && FIRST_MOVE_RANDOM) ? B.get_rand_move() : iterativeDeepeningSearch(B, white_turn);
+  bt_move_t move = (B.turn < 2 && FIRST_MOVE_RANDOM) ? B.get_rand_move() : iterativeDeepeningSearch(B, white_turn);
   B.play(move);
 
   if (verbose) {
