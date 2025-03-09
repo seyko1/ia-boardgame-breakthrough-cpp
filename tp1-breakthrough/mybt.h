@@ -151,28 +151,20 @@ void bt_t::init_pieces() {
     }
 }
 
-/* Afficher les positions des pions du joueur actif dans une chaine de caractère
- * format : grille:joueur_actif (ex: 0,1,2,1,0,2,2,2,0:0)
-*/ 
+// Renvoie une chaine de caractère representant l'état du jeu en une dimension
 std::string bt_t::board_to_string(bool is_white) {
-  std::stringstream ss; 
+  std::string result;
+  result.reserve(nbl * nbc + 2);
+
   for (int i = 0; i < nbl; i++) {
     for (int j = 0; j < nbc; j++) {
-      // assigner une valeur en fonction de la couleur du pion
-      int value = board[i][j];
-
-      ss << i << "," << j << "," << value;
-
-      // vérifier si c'est la dernière position
-      if (!(i == nbl - 1 && j == nbc - 1)) {
-        ss << ",";
-      }
-      else {
-        ss << ":" << (is_white ? "0" : "1");
-      }
+      // Stocker la couleur du pion (0 pour blanc, 1 pour noir, 2 sinon)
+      result.append(std::to_string(board[i][j]));
     }
   }
-  return ss.str();
+  // Stocker la valeur du joueur actif (0 pour blanc, 1 sinon)
+  result.append(":").append(is_white ? "0" : "1");
+  return result;
 }
 
 void bt_t::print_board(FILE* _fp = stderr) {
