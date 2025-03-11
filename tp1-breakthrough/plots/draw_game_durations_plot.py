@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 import sys
 import statistics
 import re
+import os
+
+dir = "./old_stats/depth2_vs_depth4"
 
 # Récupère les noms des deux joueurs depuis le fichier de log resume.txt
 def get_player_names(resume_file):
@@ -27,7 +30,7 @@ def get_player_names(resume_file):
 def get_game_durations():
     durations = []
 
-    for log_file in ['./new_stats/log1.txt', './new_stats/log2.txt']:
+    for log_file in [f'{dir}/log1.txt', f'{dir}/log2.txt']:
         try:
             with open(log_file, 'r') as file:
                 data = file.read()
@@ -67,8 +70,8 @@ def create_game_durations_plot(player1_name, player2_name, durations):
     plt.axhline(mean_duration, color='r', linestyle='--', label=f'Moyenne: {mean_duration:.2f}')
     
     # Zone représentant l'écart-type autour de la moyenne
-    plt.axhline(mean_duration + std_dev_duration, color='orange', linestyle='-.', label=f'Moyenne + Écart-type: {mean_duration + std_dev_duration:.2f}')
-    plt.axhline(mean_duration - std_dev_duration, color='orange', linestyle='-.', label=f'Moyenne - Écart-type: {mean_duration - std_dev_duration:.2f}')
+    plt.axhline(mean_duration + std_dev_duration, color='orange', linestyle='-.', label=f'Écart-type: {std_dev_duration:.2f} tours')
+    plt.axhline(mean_duration - std_dev_duration, color='orange', linestyle='-.')
     plt.fill_between(range(len(durations)), mean_duration - std_dev_duration, mean_duration + std_dev_duration, color='orange', alpha=0.3)
 
     plt.title(f'Durées des parties (Breakthrough 6x10) : {player1_name} vs {player2_name}')
@@ -77,10 +80,12 @@ def create_game_durations_plot(player1_name, player2_name, durations):
     plt.legend()
     plt.grid(True)
 
+    plt.savefig(os.path.join(dir, 'game_durations_plot.png'))
+
     plt.show()
 
 if __name__ == "__main__":
-    player1, player2 = get_player_names("./new_stats/resume.txt")
+    player1, player2 = get_player_names(f"{dir}/resume.txt")
 
     if not player1 or not player2:
         print("Erreur de parsing.....")
