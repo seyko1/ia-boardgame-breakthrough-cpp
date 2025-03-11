@@ -52,6 +52,18 @@ cd tp1-breakthrough
 pike run_many_games.pike -f ./players/player1 -s ./players/player2 -v 1 -p 1 -l 6 -c 4 -n 10
 ```
 
+## Paramètres du programme ids_player.cpp
+
+| Paramètre                        | Description                                                                                       |
+|-----------------------------------|---------------------------------------------------------------------------------------------------|
+| `IDS_MAX_DEPTH`                   | Définit la profondeur maximale de recherche itérative.      |
+| `FIRST_MOVE_RANDOM`               | Détermine si le premier coup de chaque joueur doit être aléatoire (`1` pour oui, `0` sinon).    |
+| `PLAYER_NAME`                     | Définit le nom du joueur.                                                   |
+| `verbose`                         | Active l'affichage détaillé des informations pendant l'exécution.         |
+| `debug`                           | Mode debug pour suivre les étapes de recherche IDS / DLS.    |
+| `showboard_at_each_move`         | Permet d'afficher le plateau de jeu après chaque coup.                     |
+
+
 ## Heuristique d'évaluation
 
 La fonction d'heuristique implémentée prend en compte deux critères pour évaluer l'état du jeu et attribuer un score à un joueur donné.
@@ -81,7 +93,7 @@ Score = `0.3 × (Différence de pions) + 0.7 × (Avancée vers l'objectif)`
 
 ## Résultat de parties
  
- 🔨  ... 
+ (voir répertoire `/old_stats`)
 
 
 ## Analyse des longueurs de partie
@@ -90,10 +102,11 @@ Le script `plots/draw_game_durations_plot.py` permet de créer un plot des longu
 
 ### Exemple d'analyse graphique
 
-Paramètres de **player1** et **player 2** :
+Paramètres de **ia_avantage_pieces** et **ia_avantage_distance** :
 - Recherche IDS
 - Profondeur 2
-- Premier coup aléatoire **SI** premier joueur.
+- Premier coup aléatoire pour les deux joueurs
+- poids d'heuristique inversés entre les deux joueurs
 
 
-![...](plots/playerA_vs_playerB.png)
+![...](old_stats/depth2/pieces_vs_distance/game_durations_plot.png)
