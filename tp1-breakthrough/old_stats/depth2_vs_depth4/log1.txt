@@ -1,0 +1,17354 @@
+[] name
+= depth2
+
+[] name
+= depth4
+
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4e3d
+
+[depth2] play 4e3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3e
+
+[depth4] play 2e3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 5i6j
+
+[depth4] play 5i6j
+= 
+
+nb_turn: 63   timers : 99.93 : 50.94
+6 . . . . @ @ . . @ o 
+5 @ . . . . . . @ . . 
+4 . . @ o . . . . o . 
+3 . . . . . o . . . . 
+2 . . . o . . . . . . 
+1 . o . . o . o . o . 
+  a b c d e f g h i j 
+(./players/depth2 15 99.93) (./players/depth4 -15 50.94) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 5i4h
+
+[depth2] play 5i4h
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 3g4g
+
+[depth4] play 3g4g
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 44   timers : 99.95 : 81.15
+6 . @ @ @ @ @ @ . @ @ 
+5 @ . . . . . . o . . 
+4 . . . . @ . . o . . 
+3 . . . . o . . . . . 
+2 . . . . . o o . . . 
+1 o o o o o o . o . @ 
+  a b c d e f g h i j 
+(./players/depth2 -23 99.95) (./players/depth4 23 81.15) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 5i4i
+
+[depth2] play 5i4i
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4g3f
+
+[depth2] play 4g3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1g2g
+
+[depth4] play 1g2g
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 1c2c
+
+[depth4] play 1c2c
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3d4d
+
+[depth4] play 3d4d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4h5g
+
+[depth4] play 4h5g
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 4d5e
+
+[depth4] play 4d5e
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 5e6f
+
+[depth4] play 5e6f
+= 
+
+nb_turn: 71   timers : 99.92 : 51.95
+6 . @ . . . o . . . . 
+5 . . . @ . o o . . . 
+4 . . . . . . . . o . 
+3 . . . . o o . . o . 
+2 . . . o . . . . . o 
+1 o o . o . . . . . . 
+  a b c d e f g h i j 
+(./players/depth2 14 99.92) (./players/depth4 -14 51.95) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 3e2f
+
+[depth2] play 3e2f
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3f4f
+
+[depth4] play 3f4f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 4h3g
+
+[depth2] play 4h3g
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 3g2f
+
+[depth2] play 3g2f
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 2f1g
+
+[depth2] play 2f1g
+= 
+
+nb_turn: 70   timers : 99.93 : 51.24
+6 . . @ @ . . . . . . 
+5 . . @ . . @ . o o . 
+4 . . . . . . . . . o 
+3 . . . . . . . . . . 
+2 . . . . . . o . o . 
+1 o . o . . . @ . o . 
+  a b c d e f g h i j 
+(./players/depth2 -13 99.93) (./players/depth4 13 51.24) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 5i4h
+
+[depth2] play 5i4h
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 3g4g
+
+[depth4] play 3g4g
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 44   timers : 99.95 : 81.44
+6 . @ @ @ @ @ @ . @ @ 
+5 @ . . . . . . o . . 
+4 . . . . @ . . o . . 
+3 . . . . o . . . . . 
+2 . . . . . o o . . . 
+1 o o o o o o . o . @ 
+  a b c d e f g h i j 
+(./players/depth2 -23 99.95) (./players/depth4 23 81.44) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2b3a
+
+[depth4] play 2b3a
+= 
+
+[depth4] genmove
+= 5b4a
+
+[depth2] play 5b4a
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 4a3b
+
+[depth2] play 4a3b
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3a4b
+
+[depth4] play 3a4b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5h4h
+
+[depth2] play 5h4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4h5i
+
+[depth4] play 4h5i
+= 
+
+[depth4] genmove
+= 6j5i
+
+[depth2] play 6j5i
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 3e2f
+
+[depth2] play 3e2f
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 50   timers : 99.93 : 49.67
+6 . @ @ @ @ @ @ . @ . 
+5 . . . . . . . . @ @ 
+4 . . . . . . . . . . 
+3 . . . . . o o o . o 
+2 . . o . . o . . . o 
+1 o . . o @ . . o o . 
+  a b c d e f g h i j 
+(./players/depth2 -21 99.93) (./players/depth4 21 49.67) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3d
+
+[depth4] play 2d3d
+= 
+
+[depth4] genmove
+= 5d4d
+
+[depth2] play 5d4d
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 6b5b
+
+[depth2] play 6b5b
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4g3f
+
+[depth2] play 4g3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 5i4h
+
+[depth2] play 5i4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 52   timers : 99.94 : 87.02
+6 . . . @ . @ @ @ @ @ 
+5 . @ . . . . . @ . @ 
+4 . . . . o . . o . . 
+3 . . . . o o . . . . 
+2 . . . . . o . . o o 
+1 o . . . @ . o . o o 
+  a b c d e f g h i j 
+(./players/depth2 -21 99.94) (./players/depth4 21 87.02) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4c3c
+
+[depth2] play 4c3c
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 50   timers : 99.94 : 89.36
+6 . @ @ . @ . @ @ @ @ 
+5 . . . . . . @ . . . 
+4 . . . . . . o . o . 
+3 . . . @ o o o . o o 
+2 . . . . . o . . . o 
+1 o o . o @ o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 -24 99.94) (./players/depth4 24 89.36) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2b3a
+
+[depth4] play 2b3a
+= 
+
+[depth4] genmove
+= 5b4a
+
+[depth2] play 5b4a
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 4a3b
+
+[depth2] play 4a3b
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3a4b
+
+[depth4] play 3a4b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5h4h
+
+[depth2] play 5h4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4h5i
+
+[depth4] play 4h5i
+= 
+
+[depth4] genmove
+= 6j5i
+
+[depth2] play 6j5i
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 3e2f
+
+[depth2] play 3e2f
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 50   timers : 99.93 : 49.76
+6 . @ @ @ @ @ @ . @ . 
+5 . . . . . . . . @ @ 
+4 . . . . . . . . . . 
+3 . . . . . o o o . o 
+2 . . o . . o . . . o 
+1 o . . o @ . . o o . 
+  a b c d e f g h i j 
+(./players/depth2 -21 99.93) (./players/depth4 21 49.76) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2b3a
+
+[depth4] play 2b3a
+= 
+
+[depth4] genmove
+= 5b4a
+
+[depth2] play 5b4a
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 4a3b
+
+[depth2] play 4a3b
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3a4b
+
+[depth4] play 3a4b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5h4h
+
+[depth2] play 5h4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4h5i
+
+[depth4] play 4h5i
+= 
+
+[depth4] genmove
+= 6j5i
+
+[depth2] play 6j5i
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 3e2f
+
+[depth2] play 3e2f
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 50   timers : 99.93 : 49.90
+6 . @ @ @ @ @ @ . @ . 
+5 . . . . . . . . @ @ 
+4 . . . . . . . . . . 
+3 . . . . . o o o . o 
+2 . . o . . o . . . o 
+1 o . . o @ . . o o . 
+  a b c d e f g h i j 
+(./players/depth2 -21 99.93) (./players/depth4 21 49.90) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4c3c
+
+[depth2] play 4c3c
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 50   timers : 99.94 : 89.29
+6 . @ @ . @ . @ @ @ @ 
+5 . . . . . . @ . . . 
+4 . . . . . . o . o . 
+3 . . . @ o o o . o o 
+2 . . . . . o . . . o 
+1 o o . o @ o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 -24 99.94) (./players/depth4 24 89.29) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 4c3b
+
+[depth2] play 4c3b
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1f2g
+
+[depth4] play 1f2g
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 4g5f
+
+[depth4] play 4g5f
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 5f6g
+
+[depth4] play 5f6g
+= 
+
+nb_turn: 63   timers : 99.93 : 44.76
+6 . @ @ . . . o . . . 
+5 . . . . @ . o . o . 
+4 . . . . o . . . . . 
+3 . . . . . . . . . . 
+2 . . . o . o . . o o 
+1 o o . . o . . . o . 
+  a b c d e f g h i j 
+(./players/depth2 15 99.93) (./players/depth4 -15 44.76) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4c3c
+
+[depth2] play 4c3c
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 50   timers : 99.94 : 89.18
+6 . @ @ . @ . @ @ @ @ 
+5 . . . . . . @ . . . 
+4 . . . . . . o . o . 
+3 . . . @ o o o . o o 
+2 . . . . . o . . . o 
+1 o o . o @ o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 -24 99.94) (./players/depth4 24 89.18) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5h4g
+
+[depth2] play 5h4g
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3i4i
+
+[depth4] play 3i4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 2e1f
+
+[depth2] play 2e1f
+= 
+
+nb_turn: 44   timers : 99.95 : 74.45
+6 . @ @ . @ @ @ @ @ @ 
+5 @ . . . . . . . . . 
+4 . . . @ . . . . o o 
+3 . . . . . . . . . . 
+2 . . o . . o . . o o 
+1 o . o . . @ o . o o 
+  a b c d e f g h i j 
+(./players/depth2 -22 99.95) (./players/depth4 22 74.45) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4i3h
+
+[depth2] play 4i3h
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3h4g
+
+[depth4] play 3h4g
+= 
+
+[depth4] genmove
+= 5h4g
+
+[depth2] play 5h4g
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 4j5j
+
+[depth4] play 4j5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 1d2d
+
+[depth4] play 1d2d
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 3g2f
+
+[depth2] play 3g2f
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4g3f
+
+[depth2] play 4g3f
+= 
+
+[depth2] genmove
+= 4d5e
+
+[depth4] play 4d5e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 6j5i
+
+[depth2] play 6j5i
+= 
+
+[depth2] genmove
+= 4h5i
+
+[depth4] play 4h5i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 2j1i
+
+[depth2] play 2j1i
+= 
+
+nb_turn: 68   timers : 99.93 : 73.60
+6 . @ @ . @ @ . . . . 
+5 . . . . @ . . o . . 
+4 . . . . . . . . . @ 
+3 . . . o . . . . . . 
+2 . . . o . o . . . . 
+1 . o . . . o . . @ o 
+  a b c d e f g h i j 
+(./players/depth2 -14 99.93) (./players/depth4 14 73.60) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4e3d
+
+[depth2] play 4e3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3e
+
+[depth4] play 2e3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 5i6j
+
+[depth4] play 5i6j
+= 
+
+nb_turn: 63   timers : 99.93 : 51.31
+6 . . . . @ @ . . @ o 
+5 @ . . . . . . @ . . 
+4 . . @ o . . . . o . 
+3 . . . . . o . . . . 
+2 . . . o . . . . . . 
+1 . o . . o . o . o . 
+  a b c d e f g h i j 
+(./players/depth2 15 99.93) (./players/depth4 -15 51.31) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4e3d
+
+[depth2] play 4e3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3e
+
+[depth4] play 2e3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 5i6j
+
+[depth4] play 5i6j
+= 
+
+nb_turn: 63   timers : 99.92 : 51.21
+6 . . . . @ @ . . @ o 
+5 @ . . . . . . @ . . 
+4 . . @ o . . . . o . 
+3 . . . . . o . . . . 
+2 . . . o . . . . . . 
+1 . o . . o . o . o . 
+  a b c d e f g h i j 
+(./players/depth2 15 99.92) (./players/depth4 -15 51.21) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4c3c
+
+[depth2] play 4c3c
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 50   timers : 99.94 : 89.33
+6 . @ @ . @ . @ @ @ @ 
+5 . . . . . . @ . . . 
+4 . . . . . . o . o . 
+3 . . . @ o o o . o o 
+2 . . . . . o . . . o 
+1 o o . o @ o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 -24 99.94) (./players/depth4 24 89.33) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 1f2g
+
+[depth4] play 1f2g
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 1d2d
+
+[depth4] play 1d2d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4h5g
+
+[depth4] play 4h5g
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 4f5f
+
+[depth4] play 4f5f
+= 
+
+[depth4] genmove
+= 3h2i
+
+[depth2] play 3h2i
+= 
+
+[depth2] genmove
+= 5f6g
+
+[depth4] play 5f6g
+= 
+
+nb_turn: 65   timers : 99.93 : 53.15
+6 . @ @ @ . . o . . . 
+5 . . . . . . o . . . 
+4 . . . o . . . . o o 
+3 . . o o . . . . . . 
+2 . . . . o . . . @ . 
+1 o o o . o . . o . . 
+  a b c d e f g h i j 
+(./players/depth2 17 99.93) (./players/depth4 -17 53.15) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 4c3b
+
+[depth2] play 4c3b
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 2b3a
+
+[depth4] play 2b3a
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3a4b
+
+[depth4] play 3a4b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3c4b
+
+[depth4] play 3c4b
+= 
+
+[depth4] genmove
+= 5c4b
+
+[depth2] play 5c4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 1g2g
+
+[depth4] play 1g2g
+= 
+
+[depth4] genmove
+= 5b4a
+
+[depth2] play 5b4a
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4a3b
+
+[depth2] play 4a3b
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3b2c
+
+[depth2] play 3b2c
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3e
+
+[depth4] play 2e3e
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1i2h
+
+[depth4] play 1i2h
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6h5g
+
+[depth2] play 6h5g
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 5f6g
+
+[depth4] play 5f6g
+= 
+
+nb_turn: 67   timers : 99.92 : 52.18
+6 . @ . @ . . o . . . 
+5 . . . . . . . o . . 
+4 . . . . . . . @ o o 
+3 . . . . . . . . . . 
+2 . . . o . o . . . . 
+1 o . . o . o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 13 99.92) (./players/depth4 -13 52.18) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4e3d
+
+[depth2] play 4e3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 1f2f
+
+[depth4] play 1f2f
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 4d5e
+
+[depth4] play 4d5e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 4c5b
+
+[depth4] play 4c5b
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 2i1j
+
+[depth2] play 2i1j
+= 
+
+nb_turn: 50   timers : 99.95 : 62.65
+6 . . . . @ @ @ @ @ . 
+5 @ o . . @ . . @ . . 
+4 . . . . . . . . . o 
+3 . . . . o . . o . . 
+2 . . . . . o o . . . 
+1 o o . o . . o . o @ 
+  a b c d e f g h i j 
+(./players/depth2 -20 99.95) (./players/depth4 20 62.65) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5h4g
+
+[depth2] play 5h4g
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3i4i
+
+[depth4] play 3i4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 2e1f
+
+[depth2] play 2e1f
+= 
+
+nb_turn: 44   timers : 99.95 : 74.52
+6 . @ @ . @ @ @ @ @ @ 
+5 @ . . . . . . . . . 
+4 . . . @ . . . . o o 
+3 . . . . . . . . . . 
+2 . . o . . o . . o o 
+1 o . o . . @ o . o o 
+  a b c d e f g h i j 
+(./players/depth2 -22 99.95) (./players/depth4 22 74.52) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2h3h
+
+[depth4] play 2h3h
+= 
+
+[depth4] genmove
+= 5h4h
+
+[depth2] play 5h4h
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 1i2h
+
+[depth4] play 1i2h
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 3i2j
+
+[depth2] play 3i2j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 34   timers : 99.96 : 82.49
+6 . @ @ @ @ @ . @ @ @ 
+5 @ . . @ @ @ . . . . 
+4 . . @ o . . . . . o 
+3 . . . . . . . . . o 
+2 . . o . o o o . . . 
+1 o o o o . o o o . @ 
+  a b c d e f g h i j 
+(./players/depth2 -28 99.96) (./players/depth4 28 82.49) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 5i4i
+
+[depth2] play 5i4i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 4h5i
+
+[depth4] play 4h5i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 5j6j
+
+[depth4] play 5j6j
+= 
+
+nb_turn: 69   timers : 99.92 : 44.89
+6 . . @ @ . . . . . o 
+5 . . @ . . . o . . . 
+4 . . . . . . @ . . . 
+3 . . . . . . . . . . 
+2 . . . o o . . . o . 
+1 o . . o . . o . o . 
+  a b c d e f g h i j 
+(./players/depth2 13 99.92) (./players/depth4 -13 44.89) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 4c3b
+
+[depth2] play 4c3b
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 2b3a
+
+[depth4] play 2b3a
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3a4b
+
+[depth4] play 3a4b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3c4b
+
+[depth4] play 3c4b
+= 
+
+[depth4] genmove
+= 5c4b
+
+[depth2] play 5c4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 1g2g
+
+[depth4] play 1g2g
+= 
+
+[depth4] genmove
+= 5b4a
+
+[depth2] play 5b4a
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4a3b
+
+[depth2] play 4a3b
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3b2c
+
+[depth2] play 3b2c
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3e
+
+[depth4] play 2e3e
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1i2h
+
+[depth4] play 1i2h
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6h5g
+
+[depth2] play 6h5g
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 5f6g
+
+[depth4] play 5f6g
+= 
+
+nb_turn: 67   timers : 99.93 : 52.06
+6 . @ . @ . . o . . . 
+5 . . . . . . . o . . 
+4 . . . . . . . @ o o 
+3 . . . . . . . . . . 
+2 . . . o . o . . . . 
+1 o . . o . o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 13 99.93) (./players/depth4 -13 52.06) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2g3g
+
+[depth4] play 2g3g
+= 
+
+[depth4] genmove
+= 5g4g
+
+[depth2] play 5g4g
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 2i1j
+
+[depth2] play 2i1j
+= 
+
+nb_turn: 26   timers : 99.97 : 78.39
+6 . @ @ @ @ . @ @ @ @ 
+5 @ . . . @ @ @ @ . @ 
+4 . . @ @ . . . . . . 
+3 . . . . . . o o . . 
+2 . . . o o o . o . o 
+1 o o o o . o o . o @ 
+  a b c d e f g h i j 
+(./players/depth2 -31 99.97) (./players/depth4 31 78.39) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5g4f
+
+[depth2] play 5g4f
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3g4f
+
+[depth4] play 3g4f
+= 
+
+[depth4] genmove
+= 5g4f
+
+[depth2] play 5g4f
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4f3e
+
+[depth2] play 4f3e
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 4j5j
+
+[depth4] play 4j5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 6j5i
+
+[depth2] play 6j5i
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 2i1j
+
+[depth2] play 2i1j
+= 
+
+nb_turn: 58   timers : 99.94 : 58.35
+6 . @ @ @ @ . @ @ . . 
+5 . . . . . . . . . o 
+4 . . . . o . o . . . 
+3 . . . . o . . . . . 
+2 . . . . o . . o . o 
+1 o . . o . . o . o @ 
+  a b c d e f g h i j 
+(./players/depth2 -18 99.94) (./players/depth4 18 58.35) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1i2j
+
+[depth4] play 1i2j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3i4i
+
+[depth4] play 3i4i
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 5j6i
+
+[depth4] play 5j6i
+= 
+
+nb_turn: 35   timers : 99.96 : 72.21
+6 . @ @ @ @ @ @ @ o @ 
+5 @ . @ . . @ . . . . 
+4 . . @ . . . . . . o 
+3 . . o . . @ o . . o 
+2 . . o o o . o . . . 
+1 o o o o o o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 29 99.96) (./players/depth4 -29 72.21) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1i2j
+
+[depth4] play 1i2j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3i4i
+
+[depth4] play 3i4i
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 5j6i
+
+[depth4] play 5j6i
+= 
+
+nb_turn: 35   timers : 99.96 : 72.21
+6 . @ @ @ @ @ @ @ o @ 
+5 @ . @ . . @ . . . . 
+4 . . @ . . . . . . o 
+3 . . o . . @ o . . o 
+2 . . o o o . o . . . 
+1 o o o o o o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 29 99.96) (./players/depth4 -29 72.21) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 1f2f
+
+[depth4] play 1f2f
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4h5i
+
+[depth4] play 4h5i
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 1c2c
+
+[depth4] play 1c2c
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4e3d
+
+[depth2] play 4e3d
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 2e1f
+
+[depth2] play 2e1f
+= 
+
+nb_turn: 70   timers : 99.94 : 57.78
+6 . @ @ @ . . . . . . 
+5 . . . . . . o . o . 
+4 . . . . . . . . . . 
+3 . . o . . . . . . o 
+2 . . . o . . . o . o 
+1 . . . . . @ o . o . 
+  a b c d e f g h i j 
+(./players/depth2 -13 99.94) (./players/depth4 13 57.78) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 5c4b
+
+[depth2] play 5c4b
+= 
+
+[depth2] genmove
+= 2a3a
+
+[depth4] play 2a3a
+= 
+
+[depth4] genmove
+= 4b3a
+
+[depth2] play 4b3a
+= 
+
+[depth2] genmove
+= 2b3a
+
+[depth4] play 2b3a
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 3a4b
+
+[depth4] play 3a4b
+= 
+
+[depth4] genmove
+= 5c4b
+
+[depth2] play 5c4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5b4a
+
+[depth2] play 5b4a
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 4a3b
+
+[depth2] play 4a3b
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4g3f
+
+[depth2] play 4g3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 3b2c
+
+[depth2] play 3b2c
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3f4e
+
+[depth4] play 3f4e
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5a4a
+
+[depth2] play 5a4a
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4a3b
+
+[depth2] play 4a3b
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 3b2c
+
+[depth2] play 3b2c
+= 
+
+[depth2] genmove
+= 1d2c
+
+[depth4] play 1d2c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5g4f
+
+[depth2] play 5g4f
+= 
+
+[depth2] genmove
+= 3g4f
+
+[depth4] play 3g4f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 4f5e
+
+[depth4] play 4f5e
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 4e5d
+
+[depth4] play 4e5d
+= 
+
+nb_turn: 77   timers : 99.92 : 48.80
+6 . . . . . . . . . . 
+5 . . . o o o . . o . 
+4 . . . . . . . . o . 
+3 . . . . . . . . . . 
+2 . . o o . . o . . o 
+1 o . . . . . o . . . 
+  a b c d e f g h i j 
+(./players/depth2 11 99.92) (./players/depth4 -11 48.80) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1i2j
+
+[depth4] play 1i2j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3i4i
+
+[depth4] play 3i4i
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 5j6i
+
+[depth4] play 5j6i
+= 
+
+nb_turn: 35   timers : 99.96 : 72.35
+6 . @ @ @ @ @ @ @ o @ 
+5 @ . @ . . @ . . . . 
+4 . . @ . . . . . . o 
+3 . . o . . @ o . . o 
+2 . . o o o . o . . . 
+1 o o o o o o . o . . 
+  a b c d e f g h i j 
+(./players/depth2 29 99.96) (./players/depth4 -29 72.35) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 5i4i
+
+[depth2] play 5i4i
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4g3f
+
+[depth2] play 4g3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1g2g
+
+[depth4] play 1g2g
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 1c2c
+
+[depth4] play 1c2c
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3d4d
+
+[depth4] play 3d4d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4h5g
+
+[depth4] play 4h5g
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 4d5e
+
+[depth4] play 4d5e
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 5e6f
+
+[depth4] play 5e6f
+= 
+
+nb_turn: 71   timers : 99.92 : 50.83
+6 . @ . . . o . . . . 
+5 . . . @ . o o . . . 
+4 . . . . . . . . o . 
+3 . . . . o o . . o . 
+2 . . . o . . . . . o 
+1 o o . o . . . . . . 
+  a b c d e f g h i j 
+(./players/depth2 14 99.92) (./players/depth4 -14 50.83) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4e3d
+
+[depth2] play 4e3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3e
+
+[depth4] play 2e3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 5i6j
+
+[depth4] play 5i6j
+= 
+
+nb_turn: 63   timers : 99.93 : 50.72
+6 . . . . @ @ . . @ o 
+5 @ . . . . . . @ . . 
+4 . . @ o . . . . o . 
+3 . . . . . o . . . . 
+2 . . . o . . . . . . 
+1 . o . . o . o . o . 
+  a b c d e f g h i j 
+(./players/depth2 15 99.93) (./players/depth4 -15 50.72) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2h3h
+
+[depth4] play 2h3h
+= 
+
+[depth4] genmove
+= 5h4h
+
+[depth2] play 5h4h
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 1i2h
+
+[depth4] play 1i2h
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 1j2j
+
+[depth4] play 1j2j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 3i2j
+
+[depth2] play 3i2j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 34   timers : 99.96 : 82.40
+6 . @ @ @ @ @ . @ @ @ 
+5 @ . . @ @ @ . . . . 
+4 . . @ o . . . . . o 
+3 . . . . . . . . . o 
+2 . . o . o o o . . . 
+1 o o o o . o o o . @ 
+  a b c d e f g h i j 
+(./players/depth2 -28 99.96) (./players/depth4 28 82.40) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 3e2f
+
+[depth2] play 3e2f
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3f4f
+
+[depth4] play 3f4f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 4h3g
+
+[depth2] play 4h3g
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 3g2f
+
+[depth2] play 3g2f
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 2f1g
+
+[depth2] play 2f1g
+= 
+
+nb_turn: 70   timers : 99.93 : 50.93
+6 . . @ @ . . . . . . 
+5 . . @ . . @ . o o . 
+4 . . . . . . . . . o 
+3 . . . . . . . . . . 
+2 . . . . . . o . o . 
+1 o . o . . . @ . o . 
+  a b c d e f g h i j 
+(./players/depth2 -13 99.93) (./players/depth4 13 50.93) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3e4d
+
+[depth4] play 3e4d
+= 
+
+[depth4] genmove
+= 4c3c
+
+[depth2] play 4c3c
+= 
+
+[depth2] genmove
+= 4d5e
+
+[depth4] play 4d5e
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5h4g
+
+[depth2] play 5h4g
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4f
+
+[depth2] play 5f4f
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1i2h
+
+[depth4] play 1i2h
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2h3h
+
+[depth4] play 2h3h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4i3h
+
+[depth2] play 4i3h
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 60   timers : 99.94 : 70.33
+6 . . @ . @ @ . @ . . 
+5 . . @ @ . . . . . . 
+4 . . . . . @ . . . o 
+3 . . o . . . . . . . 
+2 . . . o o o . . . . 
+1 . o . . . . o o . @ 
+  a b c d e f g h i j 
+(./players/depth2 -16 99.94) (./players/depth4 16 70.33) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 5i4h
+
+[depth2] play 5i4h
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 3g4g
+
+[depth4] play 3g4g
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 44   timers : 99.95 : 81.38
+6 . @ @ @ @ @ @ . @ @ 
+5 @ . . . . . . o . . 
+4 . . . . @ . . o . . 
+3 . . . . o . . . . . 
+2 . . . . . o o . . . 
+1 o o o o o o . o . @ 
+  a b c d e f g h i j 
+(./players/depth2 -23 99.95) (./players/depth4 23 81.38) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 1e2f
+
+[depth4] play 1e2f
+= 
+
+[depth4] genmove
+= 3e2f
+
+[depth2] play 3e2f
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3f4f
+
+[depth4] play 3f4f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 4h3g
+
+[depth2] play 4h3g
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2j3j
+
+[depth4] play 2j3j
+= 
+
+[depth4] genmove
+= 3g2f
+
+[depth2] play 3g2f
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 2f1g
+
+[depth2] play 2f1g
+= 
+
+nb_turn: 70   timers : 99.92 : 51.40
+6 . . @ @ . . . . . . 
+5 . . @ . . @ . o o . 
+4 . . . . . . . . . o 
+3 . . . . . . . . . . 
+2 . . . . . . o . o . 
+1 o . o . . . @ . o . 
+  a b c d e f g h i j 
+(./players/depth2 -13 99.92) (./players/depth4 13 51.40) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 1f2g
+
+[depth4] play 1f2g
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 1d2d
+
+[depth4] play 1d2d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4h5g
+
+[depth4] play 4h5g
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 4f5f
+
+[depth4] play 4f5f
+= 
+
+[depth4] genmove
+= 3h2i
+
+[depth2] play 3h2i
+= 
+
+[depth2] genmove
+= 5f6g
+
+[depth4] play 5f6g
+= 
+
+nb_turn: 65   timers : 99.93 : 53.26
+6 . @ @ @ . . o . . . 
+5 . . . . . . o . . . 
+4 . . . o . . . . o o 
+3 . . o o . . . . . . 
+2 . . . . o . . . @ . 
+1 o o o . o . . o . . 
+  a b c d e f g h i j 
+(./players/depth2 17 99.93) (./players/depth4 -17 53.26) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5h4g
+
+[depth2] play 5h4g
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3i4i
+
+[depth4] play 3i4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 2e1f
+
+[depth2] play 2e1f
+= 
+
+nb_turn: 44   timers : 99.95 : 74.67
+6 . @ @ . @ @ @ @ @ @ 
+5 @ . . . . . . . . . 
+4 . . . @ . . . . o o 
+3 . . . . . . . . . . 
+2 . . o . . o . . o o 
+1 o . o . . @ o . o o 
+  a b c d e f g h i j 
+(./players/depth2 -22 99.95) (./players/depth4 22 74.67) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 5i4h
+
+[depth2] play 5i4h
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5f4e
+
+[depth2] play 5f4e
+= 
+
+[depth2] genmove
+= 3g4g
+
+[depth4] play 3g4g
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 44   timers : 99.95 : 81.32
+6 . @ @ @ @ @ @ . @ @ 
+5 @ . . . . . . o . . 
+4 . . . . @ . . o . . 
+3 . . . . o . . . . . 
+2 . . . . . o o . . . 
+1 o o o o o o . o . @ 
+  a b c d e f g h i j 
+(./players/depth2 -23 99.95) (./players/depth4 23 81.32) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 1i2i
+
+[depth4] play 1i2i
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2i3i
+
+[depth4] play 2i3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 1f2g
+
+[depth4] play 1f2g
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 1d2d
+
+[depth4] play 1d2d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4h5g
+
+[depth4] play 4h5g
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 4f5f
+
+[depth4] play 4f5f
+= 
+
+[depth4] genmove
+= 3h2i
+
+[depth2] play 3h2i
+= 
+
+[depth2] genmove
+= 5f6g
+
+[depth4] play 5f6g
+= 
+
+nb_turn: 65   timers : 99.93 : 53.08
+6 . @ @ @ . . o . . . 
+5 . . . . . . o . . . 
+4 . . . o . . . . o o 
+3 . . o o . . . . . . 
+2 . . . . o . . . @ . 
+1 o o o . o . . o . . 
+  a b c d e f g h i j 
+(./players/depth2 17 99.93) (./players/depth4 -17 53.08) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 4c3b
+
+[depth2] play 4c3b
+= 
+
+[depth2] genmove
+= 2c3b
+
+[depth4] play 2c3b
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 1g2f
+
+[depth4] play 1g2f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3e4f
+
+[depth4] play 3e4f
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1f2g
+
+[depth4] play 1f2g
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 1h2i
+
+[depth4] play 1h2i
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 4f5g
+
+[depth4] play 4f5g
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 4g5f
+
+[depth4] play 4g5f
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 5f6g
+
+[depth4] play 5f6g
+= 
+
+nb_turn: 63   timers : 99.92 : 41.64
+6 . @ @ . . . o . . . 
+5 . . . . @ . o . o . 
+4 . . . . o . . . . . 
+3 . . . . . . . . . . 
+2 . . . o . o . . o o 
+1 o o . . o . . . o . 
+  a b c d e f g h i j 
+(./players/depth2 15 99.92) (./players/depth4 -15 41.64) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2g3g
+
+[depth4] play 2g3g
+= 
+
+[depth4] genmove
+= 4h3g
+
+[depth2] play 4h3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2i3h
+
+[depth4] play 2i3h
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3h4h
+
+[depth4] play 3h4h
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 4g5h
+
+[depth4] play 4g5h
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 4i5h
+
+[depth4] play 4i5h
+= 
+
+[depth4] genmove
+= 6i5h
+
+[depth2] play 6i5h
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 1i2j
+
+[depth4] play 1i2j
+= 
+
+[depth4] genmove
+= 6b5c
+
+[depth2] play 6b5c
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 4j5j
+
+[depth4] play 4j5j
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 5j6j
+
+[depth4] play 5j6j
+= 
+
+nb_turn: 67   timers : 99.92 : 52.82
+6 . . @ @ . . . @ . o 
+5 . . . . . @ . @ . . 
+4 . . . . . . . o . . 
+3 . . @ . @ . o . . . 
+2 . . . . . . . . . o 
+1 o . o . o o o . . . 
+  a b c d e f g h i j 
+(./players/depth2 16 99.92) (./players/depth4 -16 52.82) => ./players/depth2 win
+================= player1 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2d3d
+
+[depth4] play 2d3d
+= 
+
+[depth4] genmove
+= 5d4d
+
+[depth2] play 5d4d
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6c5d
+
+[depth2] play 6c5d
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 4e5f
+
+[depth4] play 4e5f
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 6b5b
+
+[depth2] play 6b5b
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4g3f
+
+[depth2] play 4g3f
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 3g4h
+
+[depth4] play 3g4h
+= 
+
+[depth4] genmove
+= 5i4h
+
+[depth2] play 5i4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 2d1e
+
+[depth2] play 2d1e
+= 
+
+nb_turn: 52   timers : 99.94 : 86.90
+6 . . . @ . @ @ @ @ @ 
+5 . @ . . . . . @ . @ 
+4 . . . . o . . o . . 
+3 . . . . o o . . . . 
+2 . . . . . o . . o o 
+1 o . . . @ . o . o o 
+  a b c d e f g h i j 
+(./players/depth2 -21 99.94) (./players/depth4 21 86.90) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6g5h
+
+[depth2] play 6g5h
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 1i2h
+
+[depth4] play 1i2h
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 2h3h
+
+[depth4] play 2h3h
+= 
+
+[depth4] genmove
+= 4i3h
+
+[depth2] play 4i3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 4h5i
+
+[depth4] play 4h5i
+= 
+
+[depth4] genmove
+= 6h5i
+
+[depth2] play 6h5i
+= 
+
+[depth2] genmove
+= 4j5i
+
+[depth4] play 4j5i
+= 
+
+[depth4] genmove
+= 6j5i
+
+[depth2] play 6j5i
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 3h2i
+
+[depth2] play 3h2i
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 4i3j
+
+[depth2] play 4i3j
+= 
+
+[depth2] genmove
+= 1b2b
+
+[depth4] play 1b2b
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3c4b
+
+[depth4] play 3c4b
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 1a2b
+
+[depth4] play 1a2b
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2f3e
+
+[depth4] play 2f3e
+= 
+
+[depth4] genmove
+= 3j2j
+
+[depth2] play 3j2j
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 2j1j
+
+[depth2] play 2j1j
+= 
+
+nb_turn: 62   timers : 99.93 : 78.74
+6 . @ @ @ @ @ . . . . 
+5 . . . . . . . . . . 
+4 . o . . . . . . . o 
+3 . . o o o o . . . . 
+2 . . . . . . . . . . 
+1 . . o o . o o . . @ 
+  a b c d e f g h i j 
+(./players/depth2 -16 99.93) (./players/depth4 16 78.74) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2g3f
+
+[depth4] play 2g3f
+= 
+
+[depth4] genmove
+= 5g4f
+
+[depth2] play 5g4f
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6f5g
+
+[depth2] play 6f5g
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5c4d
+
+[depth2] play 5c4d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 1h2g
+
+[depth4] play 1h2g
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5h4i
+
+[depth2] play 5h4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3j4i
+
+[depth4] play 3j4i
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2f3g
+
+[depth4] play 2f3g
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 3g4f
+
+[depth4] play 3g4f
+= 
+
+[depth4] genmove
+= 5g4f
+
+[depth2] play 5g4f
+= 
+
+[depth2] genmove
+= 1j2i
+
+[depth4] play 1j2i
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 4d3e
+
+[depth2] play 4d3e
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 4f3e
+
+[depth2] play 4f3e
+= 
+
+[depth2] genmove
+= 3j4j
+
+[depth4] play 3j4j
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 4j5j
+
+[depth4] play 4j5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 1c2d
+
+[depth4] play 1c2d
+= 
+
+[depth4] genmove
+= 3c2d
+
+[depth2] play 3c2d
+= 
+
+[depth2] genmove
+= 1e2d
+
+[depth4] play 1e2d
+= 
+
+[depth4] genmove
+= 6j5i
+
+[depth2] play 6j5i
+= 
+
+[depth2] genmove
+= 2d3e
+
+[depth4] play 2d3e
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 3j2i
+
+[depth2] play 3j2i
+= 
+
+[depth2] genmove
+= 3d4e
+
+[depth4] play 3d4e
+= 
+
+[depth4] genmove
+= 2i1j
+
+[depth2] play 2i1j
+= 
+
+nb_turn: 58   timers : 99.94 : 58.02
+6 . @ @ @ @ . @ @ . . 
+5 . . . . . . . . . o 
+4 . . . . o . o . . . 
+3 . . . . o . . . . . 
+2 . . . . o . . o . o 
+1 o . . o . . o . o @ 
+  a b c d e f g h i j 
+(./players/depth2 -18 99.94) (./players/depth4 18 58.02) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6d5e
+
+[depth2] play 6d5e
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 3d4c
+
+[depth4] play 3d4c
+= 
+
+[depth4] genmove
+= 5d4c
+
+[depth2] play 5d4c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4d3c
+
+[depth2] play 4d3c
+= 
+
+[depth2] genmove
+= 2d3c
+
+[depth4] play 2d3c
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3c4d
+
+[depth4] play 3c4d
+= 
+
+[depth4] genmove
+= 5e4d
+
+[depth2] play 5e4d
+= 
+
+[depth2] genmove
+= 1f2e
+
+[depth4] play 1f2e
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 2e3d
+
+[depth4] play 2e3d
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 1e2e
+
+[depth4] play 1e2e
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4h3i
+
+[depth2] play 4h3i
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3f4g
+
+[depth4] play 3f4g
+= 
+
+[depth4] genmove
+= 5h4g
+
+[depth2] play 5h4g
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5c4c
+
+[depth2] play 5c4c
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 3i4i
+
+[depth4] play 3i4i
+= 
+
+[depth4] genmove
+= 5j4i
+
+[depth2] play 5j4i
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 3d2e
+
+[depth2] play 3d2e
+= 
+
+[depth2] genmove
+= 1b2c
+
+[depth4] play 1b2c
+= 
+
+[depth4] genmove
+= 2e1f
+
+[depth2] play 2e1f
+= 
+
+nb_turn: 44   timers : 99.95 : 74.77
+6 . @ @ . @ @ @ @ @ @ 
+5 @ . . . . . . . . . 
+4 . . . @ . . . . o o 
+3 . . . . . . . . . . 
+2 . . o . . o . . o o 
+1 o . o . . @ o . o o 
+  a b c d e f g h i j 
+(./players/depth2 -22 99.95) (./players/depth4 22 74.77) => ./players/depth4 win
+================= player2 WIN
+[depth2] newgame 6 10
+= 
+
+[depth4] newgame 6 10
+= 
+
+[depth2] genmove
+= 2h3h
+
+[depth4] play 2h3h
+= 
+
+[depth4] genmove
+= 5h4g
+
+[depth2] play 5h4g
+= 
+
+[depth2] genmove
+= 3h4g
+
+[depth4] play 3h4g
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 2a3b
+
+[depth4] play 2a3b
+= 
+
+[depth4] genmove
+= 6e5f
+
+[depth2] play 6e5f
+= 
+
+[depth2] genmove
+= 3b4c
+
+[depth4] play 3b4c
+= 
+
+[depth4] genmove
+= 5b4c
+
+[depth2] play 5b4c
+= 
+
+[depth2] genmove
+= 1i2h
+
+[depth4] play 1i2h
+= 
+
+[depth4] genmove
+= 6a5b
+
+[depth2] play 6a5b
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 5b4b
+
+[depth2] play 5b4b
+= 
+
+[depth2] genmove
+= 3i4j
+
+[depth4] play 3i4j
+= 
+
+[depth4] genmove
+= 5i4j
+
+[depth2] play 5i4j
+= 
+
+[depth2] genmove
+= 1h2h
+
+[depth4] play 1h2h
+= 
+
+[depth4] genmove
+= 4b3c
+
+[depth2] play 4b3c
+= 
+
+[depth2] genmove
+= 2b3c
+
+[depth4] play 2b3c
+= 
+
+[depth4] genmove
+= 4j3j
+
+[depth2] play 4j3j
+= 
+
+[depth2] genmove
+= 2i3j
+
+[depth4] play 2i3j
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 2h3i
+
+[depth4] play 2h3i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 2j3i
+
+[depth4] play 2j3i
+= 
+
+[depth4] genmove
+= 5g4h
+
+[depth2] play 5g4h
+= 
+
+[depth2] genmove
+= 3i4h
+
+[depth4] play 3i4h
+= 
+
+[depth4] genmove
+= 4g3h
+
+[depth2] play 4g3h
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5e4f
+
+[depth2] play 5e4f
+= 
+
+[depth2] genmove
+= 1g2h
+
+[depth4] play 1g2h
+= 
+
+[depth4] genmove
+= 4f3g
+
+[depth2] play 4f3g
+= 
+
+[depth2] genmove
+= 2h3g
+
+[depth4] play 2h3g
+= 
+
+[depth4] genmove
+= 5d4e
+
+[depth2] play 5d4e
+= 
+
+[depth2] genmove
+= 3g4g
+
+[depth4] play 3g4g
+= 
+
+[depth4] genmove
+= 5f4g
+
+[depth2] play 5f4g
+= 
+
+[depth2] genmove
+= 3h4g
+
+[depth4] play 3h4g
+= 
+
+[depth4] genmove
+= 4e3f
+
+[depth2] play 4e3f
+= 
+
+[depth2] genmove
+= 2e3f
+
+[depth4] play 2e3f
+= 
+
+[depth4] genmove
+= 4c3d
+
+[depth2] play 4c3d
+= 
+
+[depth2] genmove
+= 2c3d
+
+[depth4] play 2c3d
+= 
+
+[depth4] genmove
+= 5a4b
+
+[depth2] play 5a4b
+= 
+
+[depth2] genmove
+= 3c4b
+
+[depth4] play 3c4b
+= 
+
+[depth4] genmove
+= 5c4b
+
+[depth2] play 5c4b
+= 
+
+[depth2] genmove
+= 1f2g
+
+[depth4] play 1f2g
+= 
+
+[depth4] genmove
+= 6j5j
+
+[depth2] play 6j5j
+= 
+
+[depth2] genmove
+= 2g3h
+
+[depth4] play 2g3h
+= 
+
+[depth4] genmove
+= 5j4j
+
+[depth2] play 5j4j
+= 
+
+[depth2] genmove
+= 3h4i
+
+[depth4] play 3h4i
+= 
+
+[depth4] genmove
+= 4j3i
+
+[depth2] play 4j3i
+= 
+
+[depth2] genmove
+= 4i5j
+
+[depth4] play 4i5j
+= 
+
+[depth4] genmove
+= 6i5j
+
+[depth2] play 6i5j
+= 
+
+[depth2] genmove
+= 1d2e
+
+[depth4] play 1d2e
+= 
+
+[depth4] genmove
+= 3i2j
+
+[depth2] play 3i2j
+= 
+
+[depth2] genmove
+= 2e3e
+
+[depth4] play 2e3e
+= 
+
+[depth4] genmove
+= 2j1i
+
+[depth2] play 2j1i
+= 
+
+nb_turn: 54   timers : 99.94 : 55.61
+6 . @ @ @ . @ @ @ . . 
+5 . . . . . . . . . @ 
+4 . @ . . . . o o . . 
+3 . . . o o o . . . o 
+2 . . . o . o . . . . 
+1 o o o . o . . . @ o 
+  a b c d e f g h i j 
+(./players/depth2 -22 99.94) (./players/depth4 22 55.61) => ./players/depth4 win
+================= player2 WIN
+[depth2] quit
+= 
+
+[depth4] quit
+= 
+

@@ -1,0 +1,10 @@
+ ================
+  NB_GAMES_PER_SIDE 50
+  NBL 6
+  NBC 10
+
+  number of wins
+ ================
+    ./players/depth2 is 48
+    ./players/depth4 is 52
+ ================

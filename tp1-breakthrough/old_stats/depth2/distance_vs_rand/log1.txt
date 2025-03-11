@@ -15,6 +15,22 @@ ready to play on 6x10 board
 = 
 
 [ia_avantage_distance] genmove
+= 2i3i
+
+[rand_player] play 2i3i
+rand_player receive play 2i3i
+2i3i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
 = 2a3b
 
 [rand_player] play 2a3b
@@ -24,10 +40,2522 @@ rand_player receive play 2a3b
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5h4g[0m
-= 5h4g
+[31m5g4h[0m
+= 5g4h
 
-[ia_avantage_distance] play 5h4g
+[ia_avantage_distance] play 5g4h
+= 
+
+[ia_avantage_distance] genmove
+= 3i4h
+
+[rand_player] play 3i4h
+rand_player receive play 3i4h
+3i4h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4e[0m
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 4h5i
+
+[rand_player] play 4h5i
+rand_player receive play 4h5i
+4h5i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4g[0m
+= 5f4g
+
+[ia_avantage_distance] play 5f4g
+= 
+
+[ia_avantage_distance] genmove
+= 5i6j
+
+[rand_player] play 5i6j
+rand_player receive play 5i6j
+5i6j
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ @ @ @ @ @ o 
+5 @ @ @ . @ . . . . @ 
+4 . . . . @ . @ . @ . 
+3 . o . . . . . . . . 
+2 . o o o o o o o . o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[rand_player] play 2d3c
+rand_player receive play 2d3c
+2d3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[rand_player] play 3c4d
+rand_player receive play 3c4d
+3c4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6d5e[0m
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6h5i[0m
+= 6h5i
+
+[ia_avantage_distance] play 6h5i
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ . o @ @ . @ @ 
+5 @ @ . . @ @ @ @ @ @ 
+4 . . . o . @ . @ . . 
+3 . . . . . . . . . . 
+2 . o o . o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2h3i
+
+[rand_player] play 2h3i
+rand_player receive play 2h3i
+2h3i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6g5h[0m
+= 6g5h
+
+[ia_avantage_distance] play 6g5h
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ . @ @ @ 
+5 @ . @ . . @ @ @ @ @ 
+4 . @ . . . @ . . @ . 
+3 . . . . . . . . o . 
+2 . o o o o o o . o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2h3i
+
+[rand_player] play 2h3i
+rand_player receive play 2h3i
+2h3i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4g[0m
+= 5f4g
+
+[ia_avantage_distance] play 5f4g
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4a[0m
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 . @ @ . @ . @ . @ . 
+4 @ . . . . . @ . @ @ 
+3 . . . . . . . . o . 
+2 . o o o o o o . o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[rand_player] play 2c3d
+rand_player receive play 2c3d
+2c3d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4i[0m
+= 5i4i
+
+[ia_avantage_distance] play 5i4i
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ . . . . @ @ @ . @ 
+4 . @ . @ . @ . . @ . 
+3 . . . o . . . . . . 
+2 . o . o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4c[0m
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4i[0m
+= 5j4i
+
+[ia_avantage_distance] play 5j4i
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4b[0m
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[rand_player] play 3c4b
+rand_player receive play 3c4b
+3c4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4e[0m
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 4b5a
+
+[rand_player] play 4b5a
+rand_player receive play 4b5a
+4b5a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4i3h[0m
+= 4i3h
+
+[ia_avantage_distance] play 4i3h
+= 
+
+[ia_avantage_distance] genmove
+= 5a6b
+
+[rand_player] play 5a6b
+rand_player receive play 5a6b
+5a6b
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ o @ @ @ @ @ @ @ @ 
+5 . . . . @ @ @ @ @ . 
+4 . . o . @ . . . . . 
+3 . . . . . . . @ . . 
+2 . . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 36 23.99) (./players/rand_player -36 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[rand_player] play 2d3e
+rand_player receive play 2d3e
+2d3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4e[0m
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4h[0m
+= 5g4h
+
+[ia_avantage_distance] play 5g4h
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4i[0m
+= 5i4i
+
+[ia_avantage_distance] play 5i4i
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ . @ . @ @ . @ . @ 
+4 . @ . . @ . . @ @ . 
+3 . . . . o . . . . . 
+2 . o o . o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 39 23.99) (./players/rand_player -39 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2f3f
+
+[rand_player] play 2f3f
+rand_player receive play 2f3f
+2f3f
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4f[0m
+= 5f4f
+
+[ia_avantage_distance] play 5f4f
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4c[0m
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4f3e[0m
+= 4f3e
+
+[ia_avantage_distance] play 4f3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[rand_player] play 2d3e
+rand_player receive play 2d3e
+2d3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4j[0m
+= 5i4j
+
+[ia_avantage_distance] play 5i4j
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4g[0m
+= 5g4g
+
+[ia_avantage_distance] play 5g4g
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ @ . . @ . . @ . @ 
+4 . . . . . . @ . . @ 
+3 . . . . o o . . . . 
+2 . o o . o . o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 36 23.99) (./players/rand_player -36 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2i3h
+
+[rand_player] play 2i3h
+rand_player receive play 2i3h
+2i3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6a5b[0m
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 . @ @ @ o @ @ @ @ @ 
+5 @ @ @ . @ @ @ @ . @ 
+4 . @ . . . . . @ . . 
+3 . . . . . . . o . . 
+2 . o o o o o o o . o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2f3e
+
+[rand_player] play 2f3e
+rand_player receive play 2f3e
+2f3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6e5f[0m
+= 6e5f
+
+[ia_avantage_distance] play 6e5f
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4h3h[0m
+= 4h3h
+
+[ia_avantage_distance] play 4h3h
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ @ @ . @ @ @ @ . @ 
+4 . . . . @ . . . . . 
+3 . . . . o . . @ . . 
+2 . o o o o . o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 39 23.99) (./players/rand_player -39 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[rand_player] play 2c3b
+rand_player receive play 2c3b
+2c3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4b[0m
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[rand_player] play 2a3a
+rand_player receive play 2a3a
+2a3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4h[0m
+= 5h4h
+
+[ia_avantage_distance] play 5h4h
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[rand_player] play 3a4b
+rand_player receive play 3a4b
+3a4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4f[0m
+= 5f4f
+
+[ia_avantage_distance] play 5f4f
+= 
+
+[ia_avantage_distance] genmove
+= 4b5a
+
+[rand_player] play 4b5a
+rand_player receive play 4b5a
+4b5a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4d[0m
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 5a6b
+
+[rand_player] play 5a6b
+rand_player receive play 5a6b
+5a6b
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ o @ @ @ @ @ @ @ @ 
+5 . . . @ . . @ . @ @ 
+4 o . . @ . @ . @ . . 
+3 . . . . . . . . . . 
+2 . o . o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 36 23.99) (./players/rand_player -36 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[rand_player] play 2c3b
+rand_player receive play 2c3b
+2c3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4b[0m
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[rand_player] play 2a3a
+rand_player receive play 2a3a
+2a3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[rand_player] play 3a4b
+rand_player receive play 3a4b
+3a4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 4b5a
+
+[rand_player] play 4b5a
+rand_player receive play 4b5a
+4b5a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4e3d[0m
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 5a6b
+
+[rand_player] play 5a6b
+rand_player receive play 5a6b
+5a6b
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ o @ @ @ @ @ @ @ @ 
+5 . @ . @ @ . . @ @ @ 
+4 . . . . . @ . . . . 
+3 . o . @ . . . . . . 
+2 . o . o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[rand_player] play 2d3c
+rand_player receive play 2d3c
+2d3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4i[0m
+= 5j4i
+
+[ia_avantage_distance] play 5j4i
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4i3i[0m
+= 4i3i
+
+[ia_avantage_distance] play 4i3i
+= 
+
+[ia_avantage_distance] genmove
+= 2h3i
+
+[rand_player] play 2h3i
+rand_player receive play 2h3i
+2h3i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4h[0m
+= 5g4h
+
+[ia_avantage_distance] play 5g4h
+= 
+
+[ia_avantage_distance] genmove
+= 3i4h
+
+[rand_player] play 3i4h
+rand_player receive play 3i4h
+3i4h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[rand_player] play 3c4b
+rand_player receive play 3c4b
+3c4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 4c5b
+
+[rand_player] play 4c5b
+rand_player receive play 4c5b
+4c5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6g5f[0m
+= 6g5f
+
+[ia_avantage_distance] play 6g5f
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 15   timers : 23.98 : 24.00
+6 @ @ o @ @ @ . @ @ @ 
+5 . . @ . @ @ . @ @ . 
+4 . o . . @ . . o . . 
+3 . . . . . . . . . . 
+2 . o o . o o o . o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 34 23.98) (./players/rand_player -34 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2h3i
+
+[rand_player] play 2h3i
+rand_player receive play 2h3i
+2h3i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4g[0m
+= 5f4g
+
+[ia_avantage_distance] play 5f4g
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4c[0m
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4i3h[0m
+= 4i3h
+
+[ia_avantage_distance] play 4i3h
+= 
+
+[ia_avantage_distance] genmove
+= 2g3h
+
+[rand_player] play 2g3h
+rand_player receive play 2g3h
+2g3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4c3b[0m
+= 4c3b
+
+[ia_avantage_distance] play 4c3b
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[rand_player] play 2c3b
+rand_player receive play 2c3b
+2c3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 3h4g
+
+[rand_player] play 3h4g
+rand_player receive play 3h4g
+3h4g
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6j5j[0m
+= 6j5j
+
+[ia_avantage_distance] play 6j5j
+= 
+
+[ia_avantage_distance] genmove
+= 3i4j
+
+[rand_player] play 3i4j
+rand_player receive play 3i4j
+3i4j
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6c5b[0m
+= 6c5b
+
+[ia_avantage_distance] play 6c5b
+= 
+
+[ia_avantage_distance] genmove
+= 4j5i
+
+[rand_player] play 4j5i
+rand_player receive play 4j5i
+4j5i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[rand_player] play 3c4d
+rand_player receive play 3c4d
+3c4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6h5h[0m
+= 6h5h
+
+[ia_avantage_distance] play 6h5h
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[rand_player] play 4d5e
+rand_player receive play 4d5e
+4d5e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4c[0m
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 5e6f
+
+[rand_player] play 5e6f
+rand_player receive play 5e6f
+5e6f
+= 
+
+nb_turn: 23   timers : 23.98 : 24.00
+6 @ @ . @ @ o @ . @ . 
+5 @ . @ @ . . @ @ o . 
+4 . . @ . . . o . . @ 
+3 . o . . . . . . . . 
+2 . . . o o o . . o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 32 23.98) (./players/rand_player -32 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2h3h
+
+[rand_player] play 2h3h
+rand_player receive play 2h3h
+2h3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4h[0m
+= 5h4h
+
+[ia_avantage_distance] play 5h4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4d[0m
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6d5e[0m
+= 6d5e
+
+[ia_avantage_distance] play 6d5e
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4a[0m
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ . o @ @ @ @ @ 
+5 . @ @ . @ @ @ . @ @ 
+4 @ . . @ . . . @ . . 
+3 . . . . . . . o . . 
+2 . o o o o o o . o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2h3h
+
+[rand_player] play 2h3h
+rand_player receive play 2h3h
+2h3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4h[0m
+= 5h4h
+
+[ia_avantage_distance] play 5h4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4i[0m
+= 5j4i
+
+[ia_avantage_distance] play 5j4i
+= 
+
+[ia_avantage_distance] genmove
+= 3h4i
+
+[rand_player] play 3h4i
+rand_player receive play 3h4i
+3h4i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4c[0m
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4f3f[0m
+= 4f3f
+
+[ia_avantage_distance] play 4f3f
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ @ . . @ @ . . @ . 
+4 . . . . . . . @ o . 
+3 . . . . . @ . . . . 
+2 . o o o o o o . o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 36 23.99) (./players/rand_player -36 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2g3g
+
+[rand_player] play 2g3g
+rand_player receive play 2g3g
+2g3g
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4g[0m
+= 5g4g
+
+[ia_avantage_distance] play 5g4g
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4c[0m
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 3g4h
+
+[rand_player] play 3g4h
+rand_player receive play 3g4h
+3g4h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6b5b[0m
+= 6b5b
+
+[ia_avantage_distance] play 6b5b
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ . @ @ o @ @ @ @ @ 
+5 @ @ @ . @ @ . @ . . 
+4 . . . . . . @ o . @ 
+3 . . . . . . . . . . 
+2 . o o o o o . o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 36 23.99) (./players/rand_player -36 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2c3d
+
+[rand_player] play 2c3d
+rand_player receive play 2c3d
+2c3d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4g[0m
+= 5f4g
+
+[ia_avantage_distance] play 5f4g
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 3d4c
+
+[rand_player] play 3d4c
+rand_player receive play 3d4c
+3d4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6b5c[0m
+= 6b5c
+
+[ia_avantage_distance] play 6b5c
+= 
+
+[ia_avantage_distance] genmove
+= 4c5b
+
+[rand_player] play 4c5b
+rand_player receive play 4c5b
+4c5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4h[0m
+= 5g4h
+
+[ia_avantage_distance] play 5g4h
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ . o @ @ @ @ @ @ @ 
+5 @ . @ . @ . . @ @ @ 
+4 . . . @ . . @ @ . . 
+3 . . . . . . . . . . 
+2 . o . o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 36 23.99) (./players/rand_player -36 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2f3e
+
+[rand_player] play 2f3e
+rand_player receive play 2f3e
+2f3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[rand_player] play 3e4d
+rand_player receive play 3e4d
+3e4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6d5c[0m
+= 6d5c
+
+[ia_avantage_distance] play 6d5c
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[rand_player] play 4d5e
+rand_player receive play 4d5e
+4d5e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 5e6f
+
+[rand_player] play 5e6f
+rand_player receive play 5e6f
+5e6f
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ . @ o @ @ @ @ 
+5 @ . . @ . . @ @ @ @ 
+4 o . . @ @ . . . . . 
+3 . . . . . . . . . . 
+2 . o o o o . o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 36 23.99) (./players/rand_player -36 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2j3j
+
+[rand_player] play 2j3j
+rand_player receive play 2j3j
+2j3j
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4a[0m
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 4a5b
+
+[rand_player] play 4a5b
+rand_player receive play 4a5b
+4a5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6a5a[0m
+= 6a5a
+
+[ia_avantage_distance] play 6a5a
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 . @ o @ @ @ @ @ @ @ 
+5 @ . @ @ @ @ @ @ . . 
+4 . . . . . . . @ . @ 
+3 . . . . . . . . . o 
+2 . o o o o o o o o . 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2f3e
+
+[rand_player] play 2f3e
+rand_player receive play 2f3e
+2f3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6g5f[0m
+= 6g5f
+
+[ia_avantage_distance] play 6g5f
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3e4d
+
+[rand_player] play 3e4d
+rand_player receive play 3e4d
+3e4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4h[0m
+= 5h4h
+
+[ia_avantage_distance] play 5h4h
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4h3g[0m
+= 4h3g
+
+[ia_avantage_distance] play 4h3g
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ @ o @ . @ @ @ 
+5 @ @ . . @ @ @ . @ @ 
+4 . . . o @ . . . . . 
+3 . . . . . . @ . . . 
+2 . o o o o . o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2g3f
+
+[rand_player] play 2g3f
+rand_player receive play 2g3f
+2g3f
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 4c5b
+
+[rand_player] play 4c5b
+rand_player receive play 4c5b
+4c5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6g5g[0m
+= 6g5g
+
+[ia_avantage_distance] play 6g5g
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ o @ @ @ . @ @ @ 
+5 @ . @ . @ @ @ @ @ . 
+4 . . . . . @ . . . @ 
+3 . . . . . o . . . . 
+2 . o o o o o . o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[rand_player] play 2b3a
+rand_player receive play 2b3a
+2b3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4h3g[0m
+= 4h3g
+
+[ia_avantage_distance] play 4h3g
+= 
+
+[ia_avantage_distance] genmove
+= 2f3g
+
+[rand_player] play 2f3g
+rand_player receive play 2f3g
+2f3g
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4e[0m
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6i5i[0m
+= 6i5i
+
+[ia_avantage_distance] play 6i5i
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4c[0m
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ . @ 
+5 @ @ . . . @ @ @ @ @ 
+4 . . @ . @ . . . . . 
+3 o . . . . . o . . . 
+2 . . o o o . o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2d3c
+
+[rand_player] play 2d3c
+rand_player receive play 2d3c
+2d3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4f3f[0m
+= 4f3f
+
+[ia_avantage_distance] play 4f3f
+= 
+
+[ia_avantage_distance] genmove
+= 2e3f
+
+[rand_player] play 2e3f
+rand_player receive play 2e3f
+2e3f
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[rand_player] play 3c4b
+rand_player receive play 3c4b
+3c4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6h5g[0m
+= 6h5g
+
+[ia_avantage_distance] play 6h5g
+= 
+
+[ia_avantage_distance] genmove
+= 4c5b
+
+[rand_player] play 4c5b
+rand_player receive play 4c5b
+4c5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4h[0m
+= 5h4h
+
+[ia_avantage_distance] play 5h4h
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 13   timers : 23.99 : 24.00
+6 @ @ o @ @ @ @ . @ @ 
+5 . . @ . @ @ @ . @ @ 
+4 . o . . . . . @ . . 
+3 . . . . . o . . . . 
+2 . o o . . o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 35 23.99) (./players/rand_player -35 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2i3h
+
+[rand_player] play 2i3h
+rand_player receive play 2i3h
+2i3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6h5i[0m
+= 6h5i
+
+[ia_avantage_distance] play 6h5i
 = 
 
 [ia_avantage_distance] genmove
@@ -56,10 +2584,10 @@ rand_player receive play 4c5d
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
+[31m5j4i[0m
+= 5j4i
 
-[ia_avantage_distance] play 5i4i
+[ia_avantage_distance] play 5j4i
 = 
 
 [ia_avantage_distance] genmove
@@ -70,15 +2598,15 @@ rand_player receive play 5d6e
 5d6e
 = 
 
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ . @ @ 
+5 . @ @ . @ @ @ @ @ . 
+4 . @ . . . . . @ @ . 
+3 . . . . . . . o . . 
+2 . o o o o o o o . o 
 1 o o o o o o o o o o 
   a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
 ================= player1 WIN
 [ia_avantage_distance] newgame 6 10
 = 
@@ -86,6 +2614,1850 @@ nb_turn: 7   timers : 23.97 : 24.00
 [rand_player] newgame 6 10
 rand_player receive newgame 6 10
 ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2e3d
+
+[rand_player] play 2e3d
+rand_player receive play 2e3d
+2e3d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4d[0m
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4i[0m
+= 5i4i
+
+[ia_avantage_distance] play 5i4i
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4i3j[0m
+= 4i3j
+
+[ia_avantage_distance] play 4i3j
+= 
+
+[ia_avantage_distance] genmove
+= 2i3j
+
+[rand_player] play 2i3j
+rand_player receive play 2i3j
+2i3j
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 . @ @ . . @ @ @ . . 
+4 . @ . @ . . . . . @ 
+3 . . . o . . . . . o 
+2 . o o o . o o o . o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2j3j
+
+[rand_player] play 2j3j
+rand_player receive play 2j3j
+2j3j
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6j5j[0m
+= 6j5j
+
+[ia_avantage_distance] play 6j5j
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ . 
+5 @ @ @ . . . @ @ @ @ 
+4 . . . . @ @ . . . @ 
+3 . . . . . . . . . o 
+2 . o o o o o o o o . 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2i3h
+
+[rand_player] play 2i3h
+rand_player receive play 2i3h
+2i3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4h3g[0m
+= 4h3g
+
+[ia_avantage_distance] play 4h3g
+= 
+
+[ia_avantage_distance] genmove
+= 2f3g
+
+[rand_player] play 2f3g
+rand_player receive play 2f3g
+2f3g
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6i5i[0m
+= 6i5i
+
+[ia_avantage_distance] play 6i5i
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 1j2i
+
+[rand_player] play 1j2i
+rand_player receive play 1j2i
+1j2i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4h[0m
+= 5h4h
+
+[ia_avantage_distance] play 5h4h
+= 
+
+[ia_avantage_distance] genmove
+= 3g4h
+
+[rand_player] play 3g4h
+rand_player receive play 3g4h
+3g4h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 4h5i
+
+[rand_player] play 4h5i
+rand_player receive play 4h5i
+4h5i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 5i6j
+
+[rand_player] play 5i6j
+rand_player receive play 5i6j
+5i6j
+= 
+
+nb_turn: 15   timers : 23.98 : 24.00
+6 @ @ @ @ @ @ @ @ . o 
+5 @ @ . . @ . @ . . @ 
+4 . . @ @ @ . . . . . 
+3 . . . . . . . o . . 
+2 . o o o o . o o o o 
+1 o o o o o o o o o . 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 35 23.98) (./players/rand_player -35 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2e3f
+
+[rand_player] play 2e3f
+rand_player receive play 2e3f
+2e3f
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4f3e[0m
+= 4f3e
+
+[ia_avantage_distance] play 4f3e
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[rand_player] play 2d3e
+rand_player receive play 2d3e
+2d3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4c[0m
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ . . . . @ @ @ @ . 
+4 . @ @ . . . . . . @ 
+3 . . . . o o . . . . 
+2 . o o . . o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2e3e
+
+[rand_player] play 2e3e
+rand_player receive play 2e3e
+2e3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4e[0m
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 4a5b
+
+[rand_player] play 4a5b
+rand_player receive play 4a5b
+4a5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ o @ @ @ @ @ @ @ 
+5 . . @ @ . @ . @ @ @ 
+4 . @ . . @ @ . . . . 
+3 . . . . o . . . . . 
+2 . o o o . o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2f3g
+
+[rand_player] play 2f3g
+rand_player receive play 2f3g
+2f3g
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4g[0m
+= 5f4g
+
+[ia_avantage_distance] play 5f4g
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4e[0m
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[rand_player] play 3c4d
+rand_player receive play 3c4d
+3c4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6g5f[0m
+= 6g5f
+
+[ia_avantage_distance] play 6g5f
+= 
+
+[ia_avantage_distance] genmove
+= 4d5c
+
+[rand_player] play 4d5c
+rand_player receive play 4d5c
+4d5c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4a[0m
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 5c6d
+
+[rand_player] play 5c6d
+rand_player receive play 5c6d
+5c6d
+= 
+
+nb_turn: 13   timers : 23.99 : 24.00
+6 @ @ @ o @ @ . @ @ @ 
+5 . @ . . . @ @ @ @ . 
+4 @ . @ . @ . @ . . @ 
+3 . . . . . . o . . . 
+2 . . o o o . o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4c[0m
+= 5b4c
+
+[ia_avantage_distance] play 5b4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4h[0m
+= 5g4h
+
+[ia_avantage_distance] play 5g4h
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4e[0m
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ . @ . . @ . . @ @ 
+4 . . . . @ . . @ @ . 
+3 . . o . . . . . . . 
+2 . . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2i3i
+
+[rand_player] play 2i3i
+rand_player receive play 2i3i
+2i3i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4i[0m
+= 5i4i
+
+[ia_avantage_distance] play 5i4i
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4e[0m
+= 5e4e
+
+[ia_avantage_distance] play 5e4e
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4g[0m
+= 5g4g
+
+[ia_avantage_distance] play 5g4g
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4e3d[0m
+= 4e3d
+
+[ia_avantage_distance] play 4e3d
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ @ @ 
+5 @ @ @ . . @ . @ . @ 
+4 . . . . . . @ . @ . 
+3 . . . @ . . . . o . 
+2 . o o o o o o o . o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[rand_player] play 2c3b
+rand_player receive play 2c3b
+2c3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4b[0m
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[rand_player] play 2a3a
+rand_player receive play 2a3a
+2a3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4g[0m
+= 5h4g
+
+[ia_avantage_distance] play 5h4g
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[rand_player] play 3a4b
+rand_player receive play 3a4b
+3a4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4f[0m
+= 5f4f
+
+[ia_avantage_distance] play 5f4f
+= 
+
+[ia_avantage_distance] genmove
+= 4b5a
+
+[rand_player] play 4b5a
+rand_player receive play 4b5a
+4b5a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6d5c[0m
+= 6d5c
+
+[ia_avantage_distance] play 6d5c
+= 
+
+[ia_avantage_distance] genmove
+= 5a6b
+
+[rand_player] play 5a6b
+rand_player receive play 5a6b
+5a6b
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ o @ . @ @ @ @ @ @ 
+5 . @ @ @ @ . @ . @ @ 
+4 . . . . . @ @ . . . 
+3 . o . . . . . . . . 
+2 . o . o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2i3h
+
+[rand_player] play 2i3h
+rand_player receive play 2i3h
+2i3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4a[0m
+= 5a4a
+
+[ia_avantage_distance] play 5a4a
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 4a5b
+
+[rand_player] play 4a5b
+rand_player receive play 4a5b
+4a5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ o @ @ @ @ @ @ @ 
+5 . . @ @ @ @ . . . @ 
+4 . . . . . @ . @ @ . 
+3 . . . . . . . o . . 
+2 . o o o o o o o . o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[rand_player] play 2b3a
+rand_player receive play 2b3a
+2b3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4i[0m
+= 5i4i
+
+[ia_avantage_distance] play 5i4i
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6c5b[0m
+= 6c5b
+
+[ia_avantage_distance] play 6c5b
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ . @ o @ @ @ @ @ 
+5 @ @ @ . @ @ @ @ . @ 
+4 @ . . . . . . . @ . 
+3 o . . . . . . . . . 
+2 . . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2i3h
+
+[rand_player] play 2i3h
+rand_player receive play 2i3h
+2i3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4d[0m
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4i[0m
+= 5i4i
+
+[ia_avantage_distance] play 5i4i
+= 
+
+[ia_avantage_distance] genmove
+= 3h4i
+
+[rand_player] play 3h4i
+rand_player receive play 3h4i
+3h4i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 4i5j
+
+[rand_player] play 4i5j
+rand_player receive play 4i5j
+4i5j
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4f3g[0m
+= 4f3g
+
+[ia_avantage_distance] play 4f3g
+= 
+
+[ia_avantage_distance] genmove
+= 2f3g
+
+[rand_player] play 2f3g
+rand_player receive play 2f3g
+2f3g
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6i5i[0m
+= 6i5i
+
+[ia_avantage_distance] play 6i5i
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4f[0m
+= 5f4f
+
+[ia_avantage_distance] play 5f4f
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 15   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ @ . @ 
+5 @ . @ . . . . @ @ o 
+4 @ . . @ . @ . . . . 
+3 . . . . . . o . . . 
+2 . o o o o . o o . o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 35 23.99) (./players/rand_player -35 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2i3h
+
+[rand_player] play 2i3h
+rand_player receive play 2i3h
+2i3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4d[0m
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6e5e[0m
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6h5i[0m
+= 6h5i
+
+[ia_avantage_distance] play 6h5i
+= 
+
+[ia_avantage_distance] genmove
+= 5d6e
+
+[rand_player] play 5d6e
+rand_player receive play 5d6e
+5d6e
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ @ @ o @ @ . @ @ 
+5 @ @ @ . @ @ @ @ @ @ 
+4 . . . @ . . . @ . . 
+3 . . . . . . . o . . 
+2 . o o o o o o o . o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 39 23.99) (./players/rand_player -39 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[rand_player] play 2b3a
+rand_player receive play 2b3a
+2b3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6a5b[0m
+= 6a5b
+
+[ia_avantage_distance] play 6a5b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 4a5b
+
+[rand_player] play 4a5b
+rand_player receive play 4a5b
+4a5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 . @ o @ @ @ @ @ @ @ 
+5 @ . @ @ @ @ @ . . @ 
+4 . . . . . . . @ @ . 
+3 o . . . . . . . . . 
+2 . . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2g3h
+
+[rand_player] play 2g3h
+rand_player receive play 2g3h
+2g3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4h[0m
+= 5g4h
+
+[ia_avantage_distance] play 5g4h
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6f5g[0m
+= 6f5g
+
+[ia_avantage_distance] play 6f5g
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5d
+
+[rand_player] play 4c5d
+rand_player receive play 4c5d
+4c5d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6e5d[0m
+= 6e5d
+
+[ia_avantage_distance] play 6e5d
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4b3a[0m
+= 4b3a
+
+[ia_avantage_distance] play 4b3a
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[rand_player] play 3c4d
+rand_player receive play 3c4d
+3c4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[rand_player] play 4d5e
+rand_player receive play 4d5e
+4d5e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4j[0m
+= 5i4j
+
+[ia_avantage_distance] play 5i4j
+= 
+
+[ia_avantage_distance] genmove
+= 5e6f
+
+[rand_player] play 5e6f
+rand_player receive play 5e6f
+5e6f
+= 
+
+nb_turn: 15   timers : 23.98 : 24.00
+6 @ @ @ @ . o @ @ @ @ 
+5 @ . @ @ . . @ @ . @ 
+4 . . . . @ . . @ . @ 
+3 @ . . . . . . o . . 
+2 . . o o o o . o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.98) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[rand_player] play 3c4d
+rand_player receive play 3c4d
+3c4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4i[0m
+= 5j4i
+
+[ia_avantage_distance] play 5j4i
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[rand_player] play 4d5e
+rand_player receive play 4d5e
+4d5e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 5e6f
+
+[rand_player] play 5e6f
+rand_player receive play 5e6f
+5e6f
+= 
+
+nb_turn: 7   timers : 23.99 : 24.00
+6 @ @ @ @ @ o @ @ @ @ 
+5 . @ . @ . @ @ @ @ . 
+4 . @ . . . . . . @ . 
+3 . . . . . . . . . . 
+2 o . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2d3e
+
+[rand_player] play 2d3e
+rand_player receive play 2d3e
+2d3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4e[0m
+= 5d4e
+
+[ia_avantage_distance] play 5d4e
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4i[0m
+= 5j4i
+
+[ia_avantage_distance] play 5j4i
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4f[0m
+= 5g4f
+
+[ia_avantage_distance] play 5g4f
+= 
+
+[ia_avantage_distance] genmove
+= 3e4f
+
+[rand_player] play 3e4f
+rand_player receive play 3e4f
+3e4f
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4b[0m
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 4c5b
+
+[rand_player] play 4c5b
+rand_player receive play 4c5b
+4c5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6c5d[0m
+= 6c5d
+
+[ia_avantage_distance] play 6c5d
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ o @ @ @ @ @ @ @ 
+5 @ . . @ @ @ . @ @ . 
+4 . @ . . @ o . . @ . 
+3 . . . . . . . . . . 
+2 . o o . o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[rand_player] play 2b3a
+rand_player receive play 2b3a
+2b3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4b3a[0m
+= 4b3a
+
+[ia_avantage_distance] play 4b3a
+= 
+
+[ia_avantage_distance] genmove
+= 4a5b
+
+[rand_player] play 4a5b
+rand_player receive play 4a5b
+4a5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ o @ @ @ @ @ @ @ 
+5 . . @ @ @ . @ @ @ @ 
+4 . . . . @ . . . . . 
+3 @ . . . . . . . . . 
+2 . . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2f3e
+
+[rand_player] play 2f3e
+rand_player receive play 2f3e
+2f3e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5f4e[0m
+= 5f4e
+
+[ia_avantage_distance] play 5f4e
 = 
 
 [ia_avantage_distance] genmove
@@ -114,10 +4486,26 @@ rand_player receive play 3b4c
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
+[31m4g3h[0m
+= 4g3h
 
-[ia_avantage_distance] play 5a4b
+[ia_avantage_distance] play 4g3h
+= 
+
+[ia_avantage_distance] genmove
+= 2g3h
+
+[rand_player] play 2g3h
+rand_player receive play 2g3h
+2g3h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
 = 
 
 [ia_avantage_distance] genmove
@@ -130,29 +4518,77 @@ rand_player receive play 4c5d
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
+[31m6e5d[0m
+= 6e5d
 
-[ia_avantage_distance] play 5i4i
+[ia_avantage_distance] play 6e5d
 = 
 
 [ia_avantage_distance] genmove
-= 5d6e
+= 2b3c
 
-[rand_player] play 5d6e
-rand_player receive play 5d6e
-5d6e
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
 = 
 
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 3c4b
+
+[rand_player] play 3c4b
+rand_player receive play 3c4b
+3c4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6f5f[0m
+= 6f5f
+
+[ia_avantage_distance] play 6f5f
+= 
+
+[ia_avantage_distance] genmove
+= 4b5c
+
+[rand_player] play 4b5c
+rand_player receive play 4b5c
+4b5c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 5c6d
+
+[rand_player] play 5c6d
+rand_player receive play 5c6d
+5c6d
+= 
+
+nb_turn: 17   timers : 23.98 : 24.00
+6 @ @ @ o . . @ @ @ @ 
+5 . . . @ @ @ @ . @ . 
+4 . @ . . @ . . . . @ 
+3 . . . . o . . o . . 
+2 . . o o o . . o o o 
 1 o o o o o o o o o o 
   a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+(./players/ia_avantage_distance 34 23.98) (./players/rand_player -34 24.00) => ./players/ia_avantage_distance win
 ================= player1 WIN
 [ia_avantage_distance] newgame 6 10
 = 
@@ -163,11 +4599,117 @@ ready to play on 6x10 board
 = 
 
 [ia_avantage_distance] genmove
+= 2d3d
+
+[rand_player] play 2d3d
+rand_player receive play 2d3d
+2d3d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4d[0m
+= 5d4d
+
+[ia_avantage_distance] play 5d4d
+= 
+
+[ia_avantage_distance] genmove
 = 2a3b
 
 [rand_player] play 2a3b
 rand_player receive play 2a3b
 2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4d3c[0m
+= 4d3c
+
+[ia_avantage_distance] play 4d3c
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5g4h[0m
+= 5g4h
+
+[ia_avantage_distance] play 5g4h
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 4c5b
+
+[rand_player] play 4c5b
+rand_player receive play 4c5b
+4c5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m4h3g[0m
+= 4h3g
+
+[ia_avantage_distance] play 4h3g
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ o @ @ @ @ @ @ @ 
+5 @ . @ . . @ . @ @ @ 
+4 . . . . . @ . . . . 
+3 . . o o . . @ . . . 
+2 . . o . o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2h3g
+
+[rand_player] play 2h3g
+rand_player receive play 2h3g
+2h3g
 = 
 
 [rand_player] genmove
@@ -179,6 +4721,22 @@ rand_player receive genmove
 = 
 
 [ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4d[0m
+= 5e4d
+
+[ia_avantage_distance] play 5e4d
+= 
+
+[ia_avantage_distance] genmove
 = 3b4c
 
 [rand_player] play 3b4c
@@ -188,10 +4746,10 @@ rand_player receive play 3b4c
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
+[31m6d5e[0m
+= 6d5e
 
-[ia_avantage_distance] play 5a4b
+[ia_avantage_distance] play 6d5e
 = 
 
 [ia_avantage_distance] genmove
@@ -204,29 +4762,125 @@ rand_player receive play 4c5d
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
+[31m6e5d[0m
+= 6e5d
 
-[ia_avantage_distance] play 5i4i
+[ia_avantage_distance] play 6e5d
 = 
 
 [ia_avantage_distance] genmove
-= 5d6e
+= 2b3c
 
-[rand_player] play 5d6e
-rand_player receive play 5d6e
-5d6e
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
 = 
 
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
+[rand_player] genmove
+rand_player receive genmove
+[31m6h5h[0m
+= 6h5h
+
+[ia_avantage_distance] play 6h5h
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[rand_player] play 3c4d
+rand_player receive play 3c4d
+3c4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4d[0m
+= 5c4d
+
+[ia_avantage_distance] play 5c4d
+= 
+
+[ia_avantage_distance] genmove
+= 1i2h
+
+[rand_player] play 1i2h
+rand_player receive play 1i2h
+1i2h
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4b[0m
+= 5b4b
+
+[ia_avantage_distance] play 5b4b
+= 
+
+[ia_avantage_distance] genmove
+= 2h3i
+
+[rand_player] play 2h3i
+rand_player receive play 2h3i
+2h3i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6c5c[0m
+= 6c5c
+
+[ia_avantage_distance] play 6c5c
+= 
+
+[ia_avantage_distance] genmove
+= 3i4j
+
+[rand_player] play 3i4j
+rand_player receive play 3i4j
+3i4j
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5d4c[0m
+= 5d4c
+
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 4j5i
+
+[rand_player] play 4j5i
+rand_player receive play 4j5i
+4j5i
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 5i6j
+
+[rand_player] play 5i6j
+rand_player receive play 5i6j
+5i6j
+= 
+
+nb_turn: 21   timers : 23.98 : 24.00
+6 @ @ . . . @ @ . @ o 
+5 @ . @ . . @ @ @ . @ 
+4 . @ @ @ . @ @ . . . 
+3 . . . . . . o . . . 
+2 . . o o o o o . o o 
+1 o o o o o o o o . o 
   a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+(./players/ia_avantage_distance 34 23.98) (./players/rand_player -34 24.00) => ./players/ia_avantage_distance win
 ================= player1 WIN
 [ia_avantage_distance] newgame 6 10
 = 
@@ -234,6 +4888,112 @@ nb_turn: 7   timers : 23.97 : 24.00
 [rand_player] newgame 6 10
 rand_player receive newgame 6 10
 ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2c3b
+
+[rand_player] play 2c3b
+rand_player receive play 2c3b
+2c3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4b[0m
+= 5c4b
+
+[ia_avantage_distance] play 5c4b
+= 
+
+[ia_avantage_distance] genmove
+= 2a3a
+
+[rand_player] play 2a3a
+rand_player receive play 2a3a
+2a3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5i4h[0m
+= 5i4h
+
+[ia_avantage_distance] play 5i4h
+= 
+
+[ia_avantage_distance] genmove
+= 3a4b
+
+[rand_player] play 3a4b
+rand_player receive play 3a4b
+3a4b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6c5c[0m
+= 6c5c
+
+[ia_avantage_distance] play 6c5c
+= 
+
+[ia_avantage_distance] genmove
+= 4b5c
+
+[rand_player] play 4b5c
+rand_player receive play 4b5c
+4b5c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5a4b[0m
+= 5a4b
+
+[ia_avantage_distance] play 5a4b
+= 
+
+[ia_avantage_distance] genmove
+= 5c6d
+
+[rand_player] play 5c6d
+rand_player receive play 5c6d
+5c6d
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ . o @ @ @ @ @ @ 
+5 . @ . @ @ @ @ @ . @ 
+4 . @ . . . . . @ . . 
+3 . o . . . . . . . . 
+2 . o . o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3a
+
+[rand_player] play 2b3a
+rand_player receive play 2b3a
+2b3a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5b4a[0m
+= 5b4a
+
+[ia_avantage_distance] play 5b4a
 = 
 
 [ia_avantage_distance] genmove
@@ -246,10 +5006,100 @@ rand_player receive play 2a3b
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5h4g[0m
-= 5h4g
+[31m5h4h[0m
+= 5h4h
 
-[ia_avantage_distance] play 5h4g
+[ia_avantage_distance] play 5h4h
+= 
+
+[ia_avantage_distance] genmove
+= 3b4a
+
+[rand_player] play 3b4a
+rand_player receive play 3b4a
+3b4a
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4c[0m
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 4a5b
+
+[rand_player] play 4a5b
+rand_player receive play 4a5b
+4a5b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 5b6c
+
+[rand_player] play 5b6c
+rand_player receive play 5b6c
+5b6c
+= 
+
+nb_turn: 9   timers : 23.99 : 24.00
+6 @ @ o @ @ @ @ @ @ @ 
+5 @ . . @ @ @ @ . @ . 
+4 . . @ . . . . @ . @ 
+3 o . . . . . . . . . 
+2 . . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2b3c
+
+[rand_player] play 2b3c
+rand_player receive play 2b3c
+2b3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5h4i[0m
+= 5h4i
+
+[ia_avantage_distance] play 5h4i
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6h5h[0m
+= 6h5h
+
+[ia_avantage_distance] play 6h5h
 = 
 
 [ia_avantage_distance] genmove
@@ -262,10 +5112,116 @@ rand_player receive play 3b4c
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
+[31m5d4c[0m
+= 5d4c
 
-[ia_avantage_distance] play 5a4b
+[ia_avantage_distance] play 5d4c
+= 
+
+[ia_avantage_distance] genmove
+= 3c4d
+
+[rand_player] play 3c4d
+rand_player receive play 3c4d
+3c4d
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5j4j[0m
+= 5j4j
+
+[ia_avantage_distance] play 5j4j
+= 
+
+[ia_avantage_distance] genmove
+= 4d5e
+
+[rand_player] play 4d5e
+rand_player receive play 4d5e
+4d5e
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6d5d[0m
+= 6d5d
+
+[ia_avantage_distance] play 6d5d
+= 
+
+[ia_avantage_distance] genmove
+= 5e6f
+
+[rand_player] play 5e6f
+rand_player receive play 5e6f
+5e6f
+= 
+
+nb_turn: 11   timers : 23.99 : 24.00
+6 @ @ @ . @ o @ . @ @ 
+5 @ @ @ @ . @ @ @ @ . 
+4 . . @ . . . . . @ @ 
+3 . . . . . . . . . . 
+2 . . o o o o o o o o 
+1 o o o o o o o o o o 
+  a b c d e f g h i j 
+(./players/ia_avantage_distance 37 23.99) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+================= player1 WIN
+[ia_avantage_distance] newgame 6 10
+= 
+
+[rand_player] newgame 6 10
+rand_player receive newgame 6 10
+ready to play on 6x10 board
+= 
+
+[ia_avantage_distance] genmove
+= 2c3c
+
+[rand_player] play 2c3c
+rand_player receive play 2c3c
+2c3c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5c4c[0m
+= 5c4c
+
+[ia_avantage_distance] play 5c4c
+= 
+
+[ia_avantage_distance] genmove
+= 2a3b
+
+[rand_player] play 2a3b
+rand_player receive play 2a3b
+2a3b
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m5e4f[0m
+= 5e4f
+
+[ia_avantage_distance] play 5e4f
+= 
+
+[ia_avantage_distance] genmove
+= 3b4c
+
+[rand_player] play 3b4c
+rand_player receive play 3b4c
+3b4c
+= 
+
+[rand_player] genmove
+rand_player receive genmove
+[31m6e5e[0m
+= 6e5e
+
+[ia_avantage_distance] play 6e5e
 = 
 
 [ia_avantage_distance] genmove
@@ -278,10 +5234,10 @@ rand_player receive play 4c5d
 
 [rand_player] genmove
 rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
+[31m5i4j[0m
+= 5i4j
 
-[ia_avantage_distance] play 5i4i
+[ia_avantage_distance] play 5i4j
 = 
 
 [ia_avantage_distance] genmove
@@ -292,3579 +5248,15 @@ rand_player receive play 5d6e
 5d6e
 = 
 
-nb_turn: 7   timers : 23.97 : 24.00
+nb_turn: 9   timers : 23.99 : 24.00
 6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
+5 @ @ . . @ @ @ @ . @ 
+4 . . . . . @ . . . @ 
+3 . . o . . . . . . . 
+2 . o . o o o o o o o 
 1 o o o o o o o o o o 
   a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5h4g[0m
-= 5h4g
-
-[ia_avantage_distance] play 5h4g
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
-
-[ia_avantage_distance] play 5a4b
-= 
-
-[ia_avantage_distance] genmove
-= 4c5d
-
-[rand_player] play 4c5d
-rand_player receive play 4c5d
-4c5d
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
-
-[ia_avantage_distance] play 5i4i
-= 
-
-[ia_avantage_distance] genmove
-= 5d6e
-
-[rand_player] play 5d6e
-rand_player receive play 5d6e
-5d6e
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5h4g[0m
-= 5h4g
-
-[ia_avantage_distance] play 5h4g
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
-
-[ia_avantage_distance] play 5a4b
-= 
-
-[ia_avantage_distance] genmove
-= 4c5d
-
-[rand_player] play 4c5d
-rand_player receive play 4c5d
-4c5d
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
-
-[ia_avantage_distance] play 5i4i
-= 
-
-[ia_avantage_distance] genmove
-= 5d6e
-
-[rand_player] play 5d6e
-rand_player receive play 5d6e
-5d6e
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5h4g[0m
-= 5h4g
-
-[ia_avantage_distance] play 5h4g
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
-
-[ia_avantage_distance] play 5a4b
-= 
-
-[ia_avantage_distance] genmove
-= 4c5d
-
-[rand_player] play 4c5d
-rand_player receive play 4c5d
-4c5d
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
-
-[ia_avantage_distance] play 5i4i
-= 
-
-[ia_avantage_distance] genmove
-= 5d6e
-
-[rand_player] play 5d6e
-rand_player receive play 5d6e
-5d6e
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5h4g[0m
-= 5h4g
-
-[ia_avantage_distance] play 5h4g
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
-
-[ia_avantage_distance] play 5a4b
-= 
-
-[ia_avantage_distance] genmove
-= 4c5d
-
-[rand_player] play 4c5d
-rand_player receive play 4c5d
-4c5d
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
-
-[ia_avantage_distance] play 5i4i
-= 
-
-[ia_avantage_distance] genmove
-= 5d6e
-
-[rand_player] play 5d6e
-rand_player receive play 5d6e
-5d6e
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5h4g[0m
-= 5h4g
-
-[ia_avantage_distance] play 5h4g
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5a4b[0m
-= 5a4b
-
-[ia_avantage_distance] play 5a4b
-= 
-
-[ia_avantage_distance] genmove
-= 4c5d
-
-[rand_player] play 4c5d
-rand_player receive play 4c5d
-4c5d
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5i4i[0m
-= 5i4i
-
-[ia_avantage_distance] play 5i4i
-= 
-
-[ia_avantage_distance] genmove
-= 5d6e
-
-[rand_player] play 5d6e
-rand_player receive play 5d6e
-5d6e
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ @ @ o @ @ @ @ @ 
-5 . @ @ . @ @ @ . . @ 
-4 . @ . . . . @ . @ . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 38 23.97) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5c4c[0m
-= 5c4c
-
-[ia_avantage_distance] play 5c4c
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4d[0m
-= 5d4d
-
-[ia_avantage_distance] play 5d4d
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4f[0m
-= 5f4f
-
-[ia_avantage_distance] play 5f4f
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 7   timers : 23.97 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . . . @ . @ @ @ @ 
-4 . . . @ . @ . . . . 
-3 . . . . . . . . . . 
-2 . o o o o o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.97) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
-================= player1 WIN
-[ia_avantage_distance] newgame 6 10
-= 
-
-[rand_player] newgame 6 10
-rand_player receive newgame 6 10
-ready to play on 6x10 board
-= 
-
-[ia_avantage_distance] genmove
-= 2a3b
-
-[rand_player] play 2a3b
-rand_player receive play 2a3b
-2a3b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5d4e[0m
-= 5d4e
-
-[ia_avantage_distance] play 5d4e
-= 
-
-[ia_avantage_distance] genmove
-= 3b4c
-
-[rand_player] play 3b4c
-rand_player receive play 3b4c
-3b4c
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m4e3f[0m
-= 4e3f
-
-[ia_avantage_distance] play 4e3f
-= 
-
-[ia_avantage_distance] genmove
-= 2e3f
-
-[rand_player] play 2e3f
-rand_player receive play 2e3f
-2e3f
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5g4h[0m
-= 5g4h
-
-[ia_avantage_distance] play 5g4h
-= 
-
-[ia_avantage_distance] genmove
-= 4c5b
-
-[rand_player] play 4c5b
-rand_player receive play 4c5b
-4c5b
-= 
-
-[rand_player] genmove
-rand_player receive genmove
-[31m5f4e[0m
-= 5f4e
-
-[ia_avantage_distance] play 5f4e
-= 
-
-[ia_avantage_distance] genmove
-= 5b6c
-
-[rand_player] play 5b6c
-rand_player receive play 5b6c
-5b6c
-= 
-
-nb_turn: 9   timers : 23.96 : 24.00
-6 @ @ o @ @ @ @ @ @ @ 
-5 @ . @ . @ . . @ @ @ 
-4 . . . . @ . . @ . . 
-3 . . . . . o . . . . 
-2 . o o o . o o o o o 
-1 o o o o o o o o o o 
-  a b c d e f g h i j 
-(./players/ia_avantage_distance 37 23.96) (./players/rand_player -37 24.00) => ./players/ia_avantage_distance win
+(./players/ia_avantage_distance 38 23.99) (./players/rand_player -38 24.00) => ./players/ia_avantage_distance win
 ================= player1 WIN
 [ia_avantage_distance] quit
 = 

@@ -5,6 +5,6 @@
 
   number of wins
  ================
-    ./players/ia_avantage_distance is 54
-    ./players/ia_equilibre is 46
+    ./players/ia_avantage_distance is 40
+    ./players/ia_equilibre is 60
  ================

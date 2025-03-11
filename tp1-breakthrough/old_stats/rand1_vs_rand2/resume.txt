@@ -1,0 +1,10 @@
+ ================
+  NB_GAMES_PER_SIDE 50
+  NBL 6
+  NBC 10
+
+  number of wins
+ ================
+    ./players/rand_player is 43
+    ./players/rand_player2 is 57
+ ================
