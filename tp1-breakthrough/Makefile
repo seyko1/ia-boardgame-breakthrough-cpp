@@ -1,7 +1,7 @@
 CC=g++
 CFLAGS=-std=c++11 -Wall -O2
 BUILD_DIR=players
-PROGNAME=player1
+PROGNAME=fg
 
 ${PROGNAME}: $(BUILD_DIR) mybt.h ids_player.cpp
 	$(CC) $(CFLAGS) ids_player.cpp -o $(BUILD_DIR)/${PROGNAME}
