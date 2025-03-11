@@ -115,7 +115,7 @@ double heuristique(const bt_t &state, int depth, bool is_white, bool is_current_
   double avantage_pieces, avantage_distance, result;
 
   int max_pieces = state.nbc * 2;
-  // Distance totale cumulée dans l'état de départ avec deux lignes rempli de pions.
+  // La distance maximum qu'il est possible de parcourir avec deux lignes de pions au départ.
   int max_distance = (state.nbl - 1) * state.nbc + (state.nbl - 2) * state.nbc;
 
   for (int i = 0; i < board_height; i++) {
@@ -126,7 +126,7 @@ double heuristique(const bt_t &state, int depth, bool is_white, bool is_current_
       }
       else if (state.board[i][j] == BLACK) {
         black_pieces++;
-        black_distance += i;  // distance à la première ligne (ligne d'arrivée des noirs)
+        black_distance += i;
       }
     }
   }
