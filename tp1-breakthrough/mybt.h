@@ -6,11 +6,18 @@
 #include <random>
 #include <string>
 #include <sstream>
+#include <sys/time.h>
 char* cboard = (char*)"o@.";
 
 // print black in red (as bg is black... black is printed in red)
 // comment the following #define USE_COLOR to print without color
 #define USE_COLOR
+
+long long get_timestamp_ms() {
+  struct timeval tv;
+  gettimeofday(&tv, NULL);  // écrire l'heure dans tv
+  return tv.tv_sec * 1000 + tv.tv_usec / 1000;  // convertir en millisecondes
+}
 
 enum {
   WHITE,
@@ -111,7 +118,7 @@ struct bt_t {
 };
 
 void bt_t::init(int _nbl, int _nbc) {
-  srand(time(NULL)); 
+  srand(get_timestamp_ms()); 
   if(_nbl > MAX_LINES || _nbc > MAX_COLS) {
     fprintf(stderr, "ERROR : MAX_LINES or MAX_COLS exceeded\n");
     exit(0);
