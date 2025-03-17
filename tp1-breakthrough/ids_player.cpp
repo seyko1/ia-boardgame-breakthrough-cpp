@@ -17,6 +17,10 @@ int board_height = 0;
 bool white_turn = true;
 int dls_max_depth = 0;
 
+int eval_positions_counter   = 0; // Suivre le nombre de positions évaluées
+int possible_moves_counter   = 0; // Suivre le nombre de coups possibles à chaque position
+int next_moves_calls_counter = 0; // Suivre le nombre d'appel à la fonction nextMoves()
+
 // Stocke les états explorés et leur profondeur
 std::unordered_map<std::string, int> hashmap;
 
@@ -33,6 +37,8 @@ bool solved = false;
 bool verbose = false;
 bool debug = false;
 bool showboard_at_each_move = false;
+/* Afficher le facteur de branchement et le nombre de positions évaluées */
+bool show_playing_width_stats = true;
 #endif
 
 void displayHelp() {
@@ -57,6 +63,10 @@ void displayBoard() {
 }
 
 void startNewGame() {
+  eval_positions_counter   = 0;
+  possible_moves_counter   = 0;
+  next_moves_calls_counter = 0;
+
   if ((board_height < 1 || board_height > 10) && (board_width < 1 || board_width > 10)) {
     fprintf(stderr, "boardsize is %d %d ???\n", board_height, board_width);
     printf("= \n\n");
@@ -75,6 +85,12 @@ void startNewGame() {
 std::vector<bt_move_t> nextMoves(bt_t &state) {
   state.update_moves();
   std::vector<bt_move_t> moves(state.moves, state.moves + state.nb_moves);
+
+  if (show_playing_width_stats) {
+    next_moves_calls_counter++;
+    possible_moves_counter += moves.size();
+  }
+
   return moves;
 }
 
@@ -166,6 +182,10 @@ void depthLimitedSearch(bt_t &state, int depth, bool is_white) {
 
     double current_h = heuristique(state, depth, is_white, true);
     double best_h    = heuristique(best_solution, depth, is_white, false);
+
+    if (show_playing_width_stats) {
+      eval_positions_counter++;
+    }
 
     // Chercher une valeur supérieure pour les pions blanc, inférieure sinon. 
     bool best_solution_found = is_white ? current_h > best_h : current_h < best_h;
@@ -303,6 +323,13 @@ int main(int _ac, char** _av) {
       fprintf(stderr, "%s receive %s\n", PLAYER_NAME, line.c_str());
 
     if (line == "quit") {
+
+      if (show_playing_width_stats) {
+        fprintf(stderr, "Nombre de position évaluées : %d\n", eval_positions_counter);
+        double facteur_branchement = static_cast<double>(eval_positions_counter) / next_moves_calls_counter;
+        fprintf(stderr, "Nombre moyen de coups possible à chaque coup : %.2f\n", facteur_branchement);
+      }
+
       printf("= \n\n");
       break;
     } else if (line == "debug ON") {
