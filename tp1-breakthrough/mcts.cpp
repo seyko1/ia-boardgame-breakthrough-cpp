@@ -9,13 +9,14 @@
 // 1 si le premier coup de chaque joueur doit être aléatoire, 0 sinon.
 #define FIRST_MOVE_RANDOM 1
 #define PLAYER_NAME "mcts"
+#define NB_ITER 1000
 
 bt_t B;
 int board_width = 0;
 int board_height = 0;
 bool white_turn = true;
 
-std::unordered_map<std::string, int> hashmap;
+std::unordered_map<std::string, std::pair<int, int>> hashmap;
 
 #ifndef VERBOSE_MCTS_PLAYER
 #define VERBOSE_MCTS_PLAYER
@@ -89,6 +90,84 @@ void printMove(bt_move_t move, int depth) {
 
   for (int i = 0; i < depth; i++) fprintf(stderr, "\t");
   fprintf(stderr, "(%d)%s\n", depth, str.c_str());
+}
+
+double uct(
+  const std::string &state_hash,
+  const std::string &new_state_hash
+) {
+  int wins              = hashmap[new_state_hash].first;
+  int nb_playouts       = hashmap[new_state_hash].second;
+  int nb_parent_layouts = hashmap[state_hash].second;
+
+  return ((double)wins / nb_playouts) + 0.4 * sqrt(log(nb_parent_layouts) / nb_playouts);
+}
+
+bt_t selection(
+  bt_t &state,
+  const std::string &state_hash,
+  bool is_white
+) {
+  if (state.endgame()) return state;
+
+  std::vector<bt_move_t> moves = nextMoves(state);
+
+  double max_uct = -1;
+  bt_t best;
+
+  std::string new_state_hash;
+  for (bt_move_t move : moves) {
+    bt_t new_state = applyMove(state, move);
+
+    new_state_hash = new_state.board_to_string(is_white);
+
+    if (hashmap.find(new_state_hash) == hashmap.end()) {
+      hashmap[new_state_hash] = {0, 0}; // initialiser new_state dans la hashmap ?
+      return new_state;
+    }
+
+    double new_uct = uct(state_hash, new_state_hash);
+
+    if (new_uct > max_uct) {
+      max_uct = new_uct;
+      best = new_state;
+    }
+  }
+  return selection(best, new_state_hash, is_white);
+}
+
+void backpropagate(const std::string &state_hash, int score) {
+  // if (parent(state_hash)) return;
+  // hashmap[state_hash].second += 1;
+  hashmap[state_hash].first += score;
+  
+  // TODO: récupérer l'état parent et lui propager ..
+}
+
+int playout(bt_t state, bool is_white) {
+    while (!state.endgame()) {
+        bt_move_t move = state.get_rand_move();
+        state = applyMove(state, move);
+    }
+
+    int result = state.endgame();
+
+    if (result == WHITE && is_white) return 1;
+    if (result == BLACK && !is_white) return 1;
+    return -1;
+}
+
+bt_move_t mcts(bt_t &state, bool is_white) {
+  std::string state_hash = state.board_to_string(is_white);
+  hashmap[state_hash] = {0, 0};
+
+  for (int i = 0; i < NB_ITER; ++i) {
+    bt_t new_state = selection(state, state_hash, is_white);
+    std::string new_state_hash = new_state.board_to_string(is_white);
+
+    int score = playout(new_state, is_white);
+    backpropagate(new_state_hash, score);
+  }
 }
 
 void generateMove() {
