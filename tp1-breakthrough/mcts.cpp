@@ -4,6 +4,7 @@
 #include <iostream>
 #include <string>
 #include <unordered_map>
+#include <vector>
 #include "mybt.h"
 
 // 1 si le premier coup de chaque joueur doit être aléatoire, 0 sinon.
@@ -16,7 +17,18 @@ int board_width = 0;
 int board_height = 0;
 bool white_turn = true;
 
-std::unordered_map<std::string, std::pair<int, int>> hashmap;
+struct StateInfo {
+  int wins;
+  int nb_playouts;
+  std::vector<std::string> parent_hashes;
+
+  StateInfo() : wins(0), nb_playouts(0), parent_hashes() {}
+
+  StateInfo(int w, int p, const std::vector<std::string>& parents)
+    : wins(w), nb_playouts(p), parent_hashes(parents) {}
+};
+
+std::unordered_map<std::string, StateInfo> hashmap;
 
 #ifndef VERBOSE_MCTS_PLAYER
 #define VERBOSE_MCTS_PLAYER
@@ -96,9 +108,9 @@ double uct(
   const std::string &state_hash,
   const std::string &new_state_hash
 ) {
-  int wins              = hashmap[new_state_hash].first;
-  int nb_playouts       = hashmap[new_state_hash].second;
-  int nb_parent_layouts = hashmap[state_hash].second;
+  int wins              = hashmap[new_state_hash].wins;
+  int nb_playouts       = hashmap[new_state_hash].nb_playouts;
+  int nb_parent_layouts = hashmap[state_hash].nb_playouts;
 
   return ((double)wins / nb_playouts) + 0.4 * sqrt(log(nb_parent_layouts) / nb_playouts);
 }
@@ -122,7 +134,7 @@ bt_t selection(
     new_state_hash = new_state.board_to_string(is_white);
 
     if (hashmap.find(new_state_hash) == hashmap.end()) {
-      hashmap[new_state_hash] = {0, 0}; // initialiser new_state dans la hashmap ?
+      hashmap[new_state_hash] = StateInfo(0, 0, {state_hash});
       return new_state;
     }
 
@@ -137,14 +149,19 @@ bt_t selection(
 }
 
 void backpropagate(const std::string &state_hash, int score) {
-  // if (parent(state_hash)) return;
-  // hashmap[state_hash].second += 1;
-  hashmap[state_hash].first += score;
-  
-  // TODO: récupérer l'état parent et lui propager ..
+  if (hashmap.find(state_hash) == hashmap.end()) return;
+
+  StateInfo &state_info = hashmap[state_hash];
+
+  state_info.nb_playouts += 1;
+  state_info.wins += score;
+
+  for (const std::string &parent_hash : state_info.parent_hashes) {
+    backpropagate(parent_hash, score);
+  }
 }
 
-int playout(bt_t state, bool is_white) {
+int playout(bt_t state, int evaluated_player) {
     while (!state.endgame()) {
         bt_move_t move = state.get_rand_move();
         state = applyMove(state, move);
@@ -152,22 +169,48 @@ int playout(bt_t state, bool is_white) {
 
     int result = state.endgame();
 
-    if (result == WHITE && is_white) return 1;
-    if (result == BLACK && !is_white) return 1;
-    return -1;
+    return result == evaluated_player ? 1 : 0;
+}
+
+bt_move_t bestNext(bt_t &state, bool is_white) {
+  std::vector<bt_move_t> moves = nextMoves(state);
+
+  double best_score = -1;
+  bt_move_t best_move;
+
+  for (const bt_move_t &move : moves) {
+    bt_t new_state = applyMove(state, move);
+    std::string new_state_hash = new_state.board_to_string(white_turn);
+
+    if (hashmap.find(new_state_hash) != hashmap.end()) {
+      int wins = hashmap[new_state_hash].wins;
+      int plays = hashmap[new_state_hash].nb_playouts;
+
+      // Calcul du score moyen
+      double score = (double)wins / plays;
+
+      // Choisir le coup avec le meilleur score
+      if (score > best_score) {
+        best_score = score;
+        best_move = move;
+      }
+    }
+  }
+ return best_move;
 }
 
 bt_move_t mcts(bt_t &state, bool is_white) {
   std::string state_hash = state.board_to_string(is_white);
-  hashmap[state_hash] = {0, 0};
+  hashmap[state_hash] = {0, 0, {}};
 
-  for (int i = 0; i < NB_ITER; ++i) {
+  for (int i = 0; i < 10; ++i) {
     bt_t new_state = selection(state, state_hash, is_white);
     std::string new_state_hash = new_state.board_to_string(is_white);
 
-    int score = playout(new_state, is_white);
+    int score = playout(new_state, is_white ? 0 : 1);
     backpropagate(new_state_hash, score);
   }
+  return bestNext(state, is_white);
 }
 
 void generateMove() {
@@ -184,7 +227,7 @@ void generateMove() {
     return;
   }
 
-  bt_move_t move = B.get_rand_move();
+  bt_move_t move = mcts(B, white_turn);
   B.play(move);
 
   if (verbose) {
